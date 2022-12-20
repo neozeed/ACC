@@ -1,0 +1,38 @@
+*******************   LINK.EXE   ***************************
+
+USE: link arg ...
+Where each argument is:
+-<optionchar>    set option switch
+                 -h  do not automatically use _start and _lib
+                 -m  warn if definition matches one in _lib
+                 -s  Pass symbol info through to .exe
+                 -u  Print out usage information
+-f<filespec>     <filespec> is file containing list of .o files (without .o)
+                 Files are separated by spaces or newlines or tabs.
+<objectfilespec> Name of .o file (without .o)
+
+Link looks for the environment variable LINKDIR as a list of directories
+separated by ';' to search for for .o files. Typically you would put
+the _start.o and _lib.o files somewhere out of the way, then set
+LINKDIR to their directory.
+
+Unless the -h switch is used, the linker tries to use _start.o as
+the first object file, and _lib.o as the last. The _start.o file gets the
+machine into 32 bit protected mode then calls _main. _lib.o contains
+a bunch of useful functions.
+
+If the linker finds unresolved references, it aborts after listing them.
+The linker will always warn of multiple definitions in any of the
+specified input files. The linker will warn if a definition matches
+one in the _lib.o file if the -m switch is used. For some reason you may
+want to write your own printf routine for example. In the case of
+multiple definitions, the linker uses the first one it comes to. That is
+why the _lib.o file is scanned last.
+
+Remember not to type ".o" after each filename. The linker assumes each
+object file ends in ".o".
+
+The output file name will match either the first successfully opened file
+or the last one, depending on the -h option. Without the -h, the output
+will be a .EXE with the first opened file. With the -h, the output will
+be a .EXE with the last opened file.

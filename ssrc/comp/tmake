@@ -1,0 +1,18 @@
+t.exe: start.o lib.o t.o
+	link start lib t
+
+t.o:	t.c
+	acc t
+	a86 t
+
+lib.o:	lib.a
+	a86 lib
+
+start.o: start.a
+	a86 start
+
+lib.a:
+
+start.a:
+
+t.a:

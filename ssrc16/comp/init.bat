@@ -1,0 +1,1 @@
+set BISON_SIMPLE=c:\code\comp\bison.sim

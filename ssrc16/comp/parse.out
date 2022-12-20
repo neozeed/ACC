@@ -1,0 +1,6035 @@
+Conflict in state 115 between rule 131 and token '=' resolved as reduce.
+Conflict in state 115 between rule 131 and token DEFOP resolved as reduce.
+Conflict in state 115 between rule 131 and token '?' resolved as reduce.
+Conflict in state 115 between rule 131 and token OROR resolved as reduce.
+Conflict in state 115 between rule 131 and token ANDAND resolved as reduce.
+Conflict in state 115 between rule 131 and token '|' resolved as reduce.
+Conflict in state 115 between rule 131 and token '^' resolved as reduce.
+Conflict in state 115 between rule 131 and token '&' resolved as reduce.
+Conflict in state 115 between rule 131 and token EQ resolved as reduce.
+Conflict in state 115 between rule 131 and token NE resolved as reduce.
+Conflict in state 115 between rule 131 and token '<' resolved as reduce.
+Conflict in state 115 between rule 131 and token '>' resolved as reduce.
+Conflict in state 115 between rule 131 and token LE resolved as reduce.
+Conflict in state 115 between rule 131 and token GE resolved as reduce.
+Conflict in state 115 between rule 131 and token RR resolved as reduce.
+Conflict in state 115 between rule 131 and token LL resolved as reduce.
+Conflict in state 115 between rule 131 and token '+' resolved as reduce.
+Conflict in state 115 between rule 131 and token '-' resolved as reduce.
+Conflict in state 115 between rule 131 and token '*' resolved as reduce.
+Conflict in state 115 between rule 131 and token '/' resolved as reduce.
+Conflict in state 115 between rule 131 and token '%' resolved as reduce.
+Conflict in state 115 between rule 131 and token PLPL resolved as shift.
+Conflict in state 115 between rule 131 and token MIMI resolved as shift.
+Conflict in state 116 between rule 133 and token '=' resolved as reduce.
+Conflict in state 116 between rule 133 and token DEFOP resolved as reduce.
+Conflict in state 116 between rule 133 and token '?' resolved as reduce.
+Conflict in state 116 between rule 133 and token OROR resolved as reduce.
+Conflict in state 116 between rule 133 and token ANDAND resolved as reduce.
+Conflict in state 116 between rule 133 and token '|' resolved as reduce.
+Conflict in state 116 between rule 133 and token '^' resolved as reduce.
+Conflict in state 116 between rule 133 and token '&' resolved as reduce.
+Conflict in state 116 between rule 133 and token EQ resolved as reduce.
+Conflict in state 116 between rule 133 and token NE resolved as reduce.
+Conflict in state 116 between rule 133 and token '<' resolved as reduce.
+Conflict in state 116 between rule 133 and token '>' resolved as reduce.
+Conflict in state 116 between rule 133 and token LE resolved as reduce.
+Conflict in state 116 between rule 133 and token GE resolved as reduce.
+Conflict in state 116 between rule 133 and token RR resolved as reduce.
+Conflict in state 116 between rule 133 and token LL resolved as reduce.
+Conflict in state 116 between rule 133 and token '+' resolved as reduce.
+Conflict in state 116 between rule 133 and token '-' resolved as reduce.
+Conflict in state 116 between rule 133 and token '*' resolved as reduce.
+Conflict in state 116 between rule 133 and token '/' resolved as reduce.
+Conflict in state 116 between rule 133 and token '%' resolved as reduce.
+Conflict in state 116 between rule 133 and token PLPL resolved as shift.
+Conflict in state 116 between rule 133 and token MIMI resolved as shift.
+Conflict in state 117 between rule 132 and token '=' resolved as reduce.
+Conflict in state 117 between rule 132 and token DEFOP resolved as reduce.
+Conflict in state 117 between rule 132 and token '?' resolved as reduce.
+Conflict in state 117 between rule 132 and token OROR resolved as reduce.
+Conflict in state 117 between rule 132 and token ANDAND resolved as reduce.
+Conflict in state 117 between rule 132 and token '|' resolved as reduce.
+Conflict in state 117 between rule 132 and token '^' resolved as reduce.
+Conflict in state 117 between rule 132 and token '&' resolved as reduce.
+Conflict in state 117 between rule 132 and token EQ resolved as reduce.
+Conflict in state 117 between rule 132 and token NE resolved as reduce.
+Conflict in state 117 between rule 132 and token '<' resolved as reduce.
+Conflict in state 117 between rule 132 and token '>' resolved as reduce.
+Conflict in state 117 between rule 132 and token LE resolved as reduce.
+Conflict in state 117 between rule 132 and token GE resolved as reduce.
+Conflict in state 117 between rule 132 and token RR resolved as reduce.
+Conflict in state 117 between rule 132 and token LL resolved as reduce.
+Conflict in state 117 between rule 132 and token '+' resolved as reduce.
+Conflict in state 117 between rule 132 and token '-' resolved as reduce.
+Conflict in state 117 between rule 132 and token '*' resolved as reduce.
+Conflict in state 117 between rule 132 and token '/' resolved as reduce.
+Conflict in state 117 between rule 132 and token '%' resolved as reduce.
+Conflict in state 117 between rule 132 and token PLPL resolved as shift.
+Conflict in state 117 between rule 132 and token MIMI resolved as shift.
+Conflict in state 118 between rule 134 and token '=' resolved as reduce.
+Conflict in state 118 between rule 134 and token DEFOP resolved as reduce.
+Conflict in state 118 between rule 134 and token '?' resolved as reduce.
+Conflict in state 118 between rule 134 and token OROR resolved as reduce.
+Conflict in state 118 between rule 134 and token ANDAND resolved as reduce.
+Conflict in state 118 between rule 134 and token '|' resolved as reduce.
+Conflict in state 118 between rule 134 and token '^' resolved as reduce.
+Conflict in state 118 between rule 134 and token '&' resolved as reduce.
+Conflict in state 118 between rule 134 and token EQ resolved as reduce.
+Conflict in state 118 between rule 134 and token NE resolved as reduce.
+Conflict in state 118 between rule 134 and token '<' resolved as reduce.
+Conflict in state 118 between rule 134 and token '>' resolved as reduce.
+Conflict in state 118 between rule 134 and token LE resolved as reduce.
+Conflict in state 118 between rule 134 and token GE resolved as reduce.
+Conflict in state 118 between rule 134 and token RR resolved as reduce.
+Conflict in state 118 between rule 134 and token LL resolved as reduce.
+Conflict in state 118 between rule 134 and token '+' resolved as reduce.
+Conflict in state 118 between rule 134 and token '-' resolved as reduce.
+Conflict in state 118 between rule 134 and token '*' resolved as reduce.
+Conflict in state 118 between rule 134 and token '/' resolved as reduce.
+Conflict in state 118 between rule 134 and token '%' resolved as reduce.
+Conflict in state 118 between rule 134 and token PLPL resolved as shift.
+Conflict in state 118 between rule 134 and token MIMI resolved as shift.
+Conflict in state 119 between rule 126 and token '=' resolved as reduce.
+Conflict in state 119 between rule 126 and token DEFOP resolved as reduce.
+Conflict in state 119 between rule 126 and token '?' resolved as reduce.
+Conflict in state 119 between rule 126 and token OROR resolved as reduce.
+Conflict in state 119 between rule 126 and token ANDAND resolved as reduce.
+Conflict in state 119 between rule 126 and token '|' resolved as reduce.
+Conflict in state 119 between rule 126 and token '^' resolved as reduce.
+Conflict in state 119 between rule 126 and token '&' resolved as reduce.
+Conflict in state 119 between rule 126 and token EQ resolved as reduce.
+Conflict in state 119 between rule 126 and token NE resolved as reduce.
+Conflict in state 119 between rule 126 and token '<' resolved as reduce.
+Conflict in state 119 between rule 126 and token '>' resolved as reduce.
+Conflict in state 119 between rule 126 and token LE resolved as reduce.
+Conflict in state 119 between rule 126 and token GE resolved as reduce.
+Conflict in state 119 between rule 126 and token RR resolved as reduce.
+Conflict in state 119 between rule 126 and token LL resolved as reduce.
+Conflict in state 119 between rule 126 and token '+' resolved as reduce.
+Conflict in state 119 between rule 126 and token '-' resolved as reduce.
+Conflict in state 119 between rule 126 and token '*' resolved as reduce.
+Conflict in state 119 between rule 126 and token '/' resolved as reduce.
+Conflict in state 119 between rule 126 and token '%' resolved as reduce.
+Conflict in state 119 between rule 126 and token PLPL resolved as shift.
+Conflict in state 119 between rule 126 and token MIMI resolved as shift.
+Conflict in state 120 between rule 128 and token '=' resolved as reduce.
+Conflict in state 120 between rule 128 and token DEFOP resolved as reduce.
+Conflict in state 120 between rule 128 and token '?' resolved as reduce.
+Conflict in state 120 between rule 128 and token OROR resolved as reduce.
+Conflict in state 120 between rule 128 and token ANDAND resolved as reduce.
+Conflict in state 120 between rule 128 and token '|' resolved as reduce.
+Conflict in state 120 between rule 128 and token '^' resolved as reduce.
+Conflict in state 120 between rule 128 and token '&' resolved as reduce.
+Conflict in state 120 between rule 128 and token EQ resolved as reduce.
+Conflict in state 120 between rule 128 and token NE resolved as reduce.
+Conflict in state 120 between rule 128 and token '<' resolved as reduce.
+Conflict in state 120 between rule 128 and token '>' resolved as reduce.
+Conflict in state 120 between rule 128 and token LE resolved as reduce.
+Conflict in state 120 between rule 128 and token GE resolved as reduce.
+Conflict in state 120 between rule 128 and token RR resolved as reduce.
+Conflict in state 120 between rule 128 and token LL resolved as reduce.
+Conflict in state 120 between rule 128 and token '+' resolved as reduce.
+Conflict in state 120 between rule 128 and token '-' resolved as reduce.
+Conflict in state 120 between rule 128 and token '*' resolved as reduce.
+Conflict in state 120 between rule 128 and token '/' resolved as reduce.
+Conflict in state 120 between rule 128 and token '%' resolved as reduce.
+Conflict in state 120 between rule 128 and token PLPL resolved as shift.
+Conflict in state 120 between rule 128 and token MIMI resolved as shift.
+Conflict in state 125 between rule 135 and token '=' resolved as reduce.
+Conflict in state 125 between rule 135 and token DEFOP resolved as reduce.
+Conflict in state 125 between rule 135 and token '?' resolved as reduce.
+Conflict in state 125 between rule 135 and token OROR resolved as reduce.
+Conflict in state 125 between rule 135 and token ANDAND resolved as reduce.
+Conflict in state 125 between rule 135 and token '|' resolved as reduce.
+Conflict in state 125 between rule 135 and token '^' resolved as reduce.
+Conflict in state 125 between rule 135 and token '&' resolved as reduce.
+Conflict in state 125 between rule 135 and token EQ resolved as reduce.
+Conflict in state 125 between rule 135 and token NE resolved as reduce.
+Conflict in state 125 between rule 135 and token '<' resolved as reduce.
+Conflict in state 125 between rule 135 and token '>' resolved as reduce.
+Conflict in state 125 between rule 135 and token LE resolved as reduce.
+Conflict in state 125 between rule 135 and token GE resolved as reduce.
+Conflict in state 125 between rule 135 and token RR resolved as reduce.
+Conflict in state 125 between rule 135 and token LL resolved as reduce.
+Conflict in state 125 between rule 135 and token '+' resolved as reduce.
+Conflict in state 125 between rule 135 and token '-' resolved as reduce.
+Conflict in state 125 between rule 135 and token '*' resolved as reduce.
+Conflict in state 125 between rule 135 and token '/' resolved as reduce.
+Conflict in state 125 between rule 135 and token '%' resolved as reduce.
+Conflict in state 125 between rule 135 and token PLPL resolved as shift.
+Conflict in state 125 between rule 135 and token MIMI resolved as shift.
+Conflict in state 169 between rule 48 and token RR resolved as reduce.
+Conflict in state 169 between rule 48 and token LL resolved as reduce.
+Conflict in state 169 between rule 48 and token '+' resolved as reduce.
+Conflict in state 169 between rule 48 and token '-' resolved as reduce.
+Conflict in state 169 between rule 48 and token '*' resolved as reduce.
+Conflict in state 169 between rule 48 and token '/' resolved as reduce.
+Conflict in state 205 between rule 103 and token ',' resolved as reduce.
+Conflict in state 206 between rule 125 and token '=' resolved as shift.
+Conflict in state 206 between rule 125 and token DEFOP resolved as shift.
+Conflict in state 206 between rule 125 and token '?' resolved as shift.
+Conflict in state 206 between rule 125 and token OROR resolved as shift.
+Conflict in state 206 between rule 125 and token ANDAND resolved as shift.
+Conflict in state 206 between rule 125 and token '|' resolved as shift.
+Conflict in state 206 between rule 125 and token '^' resolved as shift.
+Conflict in state 206 between rule 125 and token '&' resolved as shift.
+Conflict in state 206 between rule 125 and token EQ resolved as shift.
+Conflict in state 206 between rule 125 and token NE resolved as shift.
+Conflict in state 206 between rule 125 and token '<' resolved as shift.
+Conflict in state 206 between rule 125 and token '>' resolved as shift.
+Conflict in state 206 between rule 125 and token LE resolved as shift.
+Conflict in state 206 between rule 125 and token GE resolved as shift.
+Conflict in state 206 between rule 125 and token RR resolved as shift.
+Conflict in state 206 between rule 125 and token LL resolved as shift.
+Conflict in state 206 between rule 125 and token '+' resolved as shift.
+Conflict in state 206 between rule 125 and token '-' resolved as shift.
+Conflict in state 206 between rule 125 and token '*' resolved as shift.
+Conflict in state 206 between rule 125 and token '/' resolved as shift.
+Conflict in state 206 between rule 125 and token '%' resolved as shift.
+Conflict in state 206 between rule 125 and token PLPL resolved as shift.
+Conflict in state 206 between rule 125 and token MIMI resolved as shift.
+Conflict in state 207 between rule 124 and token '=' resolved as shift.
+Conflict in state 207 between rule 124 and token DEFOP resolved as shift.
+Conflict in state 207 between rule 124 and token '?' resolved as shift.
+Conflict in state 207 between rule 124 and token OROR resolved as shift.
+Conflict in state 207 between rule 124 and token ANDAND resolved as shift.
+Conflict in state 207 between rule 124 and token '|' resolved as shift.
+Conflict in state 207 between rule 124 and token '^' resolved as shift.
+Conflict in state 207 between rule 124 and token '&' resolved as shift.
+Conflict in state 207 between rule 124 and token EQ resolved as shift.
+Conflict in state 207 between rule 124 and token NE resolved as shift.
+Conflict in state 207 between rule 124 and token '<' resolved as shift.
+Conflict in state 207 between rule 124 and token '>' resolved as shift.
+Conflict in state 207 between rule 124 and token LE resolved as shift.
+Conflict in state 207 between rule 124 and token GE resolved as shift.
+Conflict in state 207 between rule 124 and token RR resolved as shift.
+Conflict in state 207 between rule 124 and token LL resolved as shift.
+Conflict in state 207 between rule 124 and token '+' resolved as shift.
+Conflict in state 207 between rule 124 and token '-' resolved as shift.
+Conflict in state 207 between rule 124 and token '*' resolved as shift.
+Conflict in state 207 between rule 124 and token '/' resolved as shift.
+Conflict in state 207 between rule 124 and token '%' resolved as shift.
+Conflict in state 207 between rule 124 and token PLPL resolved as shift.
+Conflict in state 207 between rule 124 and token MIMI resolved as shift.
+Conflict in state 209 between rule 122 and token '=' resolved as reduce.
+Conflict in state 209 between rule 122 and token DEFOP resolved as reduce.
+Conflict in state 209 between rule 122 and token '?' resolved as reduce.
+Conflict in state 209 between rule 122 and token OROR resolved as reduce.
+Conflict in state 209 between rule 122 and token ANDAND resolved as shift.
+Conflict in state 209 between rule 122 and token '|' resolved as shift.
+Conflict in state 209 between rule 122 and token '^' resolved as shift.
+Conflict in state 209 between rule 122 and token '&' resolved as shift.
+Conflict in state 209 between rule 122 and token EQ resolved as shift.
+Conflict in state 209 between rule 122 and token NE resolved as shift.
+Conflict in state 209 between rule 122 and token '<' resolved as shift.
+Conflict in state 209 between rule 122 and token '>' resolved as shift.
+Conflict in state 209 between rule 122 and token LE resolved as shift.
+Conflict in state 209 between rule 122 and token GE resolved as shift.
+Conflict in state 209 between rule 122 and token RR resolved as shift.
+Conflict in state 209 between rule 122 and token LL resolved as shift.
+Conflict in state 209 between rule 122 and token '+' resolved as shift.
+Conflict in state 209 between rule 122 and token '-' resolved as shift.
+Conflict in state 209 between rule 122 and token '*' resolved as shift.
+Conflict in state 209 between rule 122 and token '/' resolved as shift.
+Conflict in state 209 between rule 122 and token '%' resolved as shift.
+Conflict in state 209 between rule 122 and token PLPL resolved as shift.
+Conflict in state 209 between rule 122 and token MIMI resolved as shift.
+Conflict in state 210 between rule 121 and token '=' resolved as reduce.
+Conflict in state 210 between rule 121 and token DEFOP resolved as reduce.
+Conflict in state 210 between rule 121 and token '?' resolved as reduce.
+Conflict in state 210 between rule 121 and token OROR resolved as reduce.
+Conflict in state 210 between rule 121 and token ANDAND resolved as reduce.
+Conflict in state 210 between rule 121 and token '|' resolved as shift.
+Conflict in state 210 between rule 121 and token '^' resolved as shift.
+Conflict in state 210 between rule 121 and token '&' resolved as shift.
+Conflict in state 210 between rule 121 and token EQ resolved as shift.
+Conflict in state 210 between rule 121 and token NE resolved as shift.
+Conflict in state 210 between rule 121 and token '<' resolved as shift.
+Conflict in state 210 between rule 121 and token '>' resolved as shift.
+Conflict in state 210 between rule 121 and token LE resolved as shift.
+Conflict in state 210 between rule 121 and token GE resolved as shift.
+Conflict in state 210 between rule 121 and token RR resolved as shift.
+Conflict in state 210 between rule 121 and token LL resolved as shift.
+Conflict in state 210 between rule 121 and token '+' resolved as shift.
+Conflict in state 210 between rule 121 and token '-' resolved as shift.
+Conflict in state 210 between rule 121 and token '*' resolved as shift.
+Conflict in state 210 between rule 121 and token '/' resolved as shift.
+Conflict in state 210 between rule 121 and token '%' resolved as shift.
+Conflict in state 210 between rule 121 and token PLPL resolved as shift.
+Conflict in state 210 between rule 121 and token MIMI resolved as shift.
+Conflict in state 211 between rule 113 and token '=' resolved as reduce.
+Conflict in state 211 between rule 113 and token DEFOP resolved as reduce.
+Conflict in state 211 between rule 113 and token '?' resolved as reduce.
+Conflict in state 211 between rule 113 and token OROR resolved as reduce.
+Conflict in state 211 between rule 113 and token ANDAND resolved as reduce.
+Conflict in state 211 between rule 113 and token '|' resolved as reduce.
+Conflict in state 211 between rule 113 and token '^' resolved as shift.
+Conflict in state 211 between rule 113 and token '&' resolved as shift.
+Conflict in state 211 between rule 113 and token EQ resolved as shift.
+Conflict in state 211 between rule 113 and token NE resolved as shift.
+Conflict in state 211 between rule 113 and token '<' resolved as shift.
+Conflict in state 211 between rule 113 and token '>' resolved as shift.
+Conflict in state 211 between rule 113 and token LE resolved as shift.
+Conflict in state 211 between rule 113 and token GE resolved as shift.
+Conflict in state 211 between rule 113 and token RR resolved as shift.
+Conflict in state 211 between rule 113 and token LL resolved as shift.
+Conflict in state 211 between rule 113 and token '+' resolved as shift.
+Conflict in state 211 between rule 113 and token '-' resolved as shift.
+Conflict in state 211 between rule 113 and token '*' resolved as shift.
+Conflict in state 211 between rule 113 and token '/' resolved as shift.
+Conflict in state 211 between rule 113 and token '%' resolved as shift.
+Conflict in state 211 between rule 113 and token PLPL resolved as shift.
+Conflict in state 211 between rule 113 and token MIMI resolved as shift.
+Conflict in state 212 between rule 114 and token '=' resolved as reduce.
+Conflict in state 212 between rule 114 and token DEFOP resolved as reduce.
+Conflict in state 212 between rule 114 and token '?' resolved as reduce.
+Conflict in state 212 between rule 114 and token OROR resolved as reduce.
+Conflict in state 212 between rule 114 and token ANDAND resolved as reduce.
+Conflict in state 212 between rule 114 and token '|' resolved as reduce.
+Conflict in state 212 between rule 114 and token '^' resolved as reduce.
+Conflict in state 212 between rule 114 and token '&' resolved as shift.
+Conflict in state 212 between rule 114 and token EQ resolved as shift.
+Conflict in state 212 between rule 114 and token NE resolved as shift.
+Conflict in state 212 between rule 114 and token '<' resolved as shift.
+Conflict in state 212 between rule 114 and token '>' resolved as shift.
+Conflict in state 212 between rule 114 and token LE resolved as shift.
+Conflict in state 212 between rule 114 and token GE resolved as shift.
+Conflict in state 212 between rule 114 and token RR resolved as shift.
+Conflict in state 212 between rule 114 and token LL resolved as shift.
+Conflict in state 212 between rule 114 and token '+' resolved as shift.
+Conflict in state 212 between rule 114 and token '-' resolved as shift.
+Conflict in state 212 between rule 114 and token '*' resolved as shift.
+Conflict in state 212 between rule 114 and token '/' resolved as shift.
+Conflict in state 212 between rule 114 and token '%' resolved as shift.
+Conflict in state 212 between rule 114 and token PLPL resolved as shift.
+Conflict in state 212 between rule 114 and token MIMI resolved as shift.
+Conflict in state 213 between rule 112 and token '=' resolved as reduce.
+Conflict in state 213 between rule 112 and token DEFOP resolved as reduce.
+Conflict in state 213 between rule 112 and token '?' resolved as reduce.
+Conflict in state 213 between rule 112 and token OROR resolved as reduce.
+Conflict in state 213 between rule 112 and token ANDAND resolved as reduce.
+Conflict in state 213 between rule 112 and token '|' resolved as reduce.
+Conflict in state 213 between rule 112 and token '^' resolved as reduce.
+Conflict in state 213 between rule 112 and token '&' resolved as reduce.
+Conflict in state 213 between rule 112 and token EQ resolved as shift.
+Conflict in state 213 between rule 112 and token NE resolved as shift.
+Conflict in state 213 between rule 112 and token '<' resolved as shift.
+Conflict in state 213 between rule 112 and token '>' resolved as shift.
+Conflict in state 213 between rule 112 and token LE resolved as shift.
+Conflict in state 213 between rule 112 and token GE resolved as shift.
+Conflict in state 213 between rule 112 and token RR resolved as shift.
+Conflict in state 213 between rule 112 and token LL resolved as shift.
+Conflict in state 213 between rule 112 and token '+' resolved as shift.
+Conflict in state 213 between rule 112 and token '-' resolved as shift.
+Conflict in state 213 between rule 112 and token '*' resolved as shift.
+Conflict in state 213 between rule 112 and token '/' resolved as shift.
+Conflict in state 213 between rule 112 and token '%' resolved as shift.
+Conflict in state 213 between rule 112 and token PLPL resolved as shift.
+Conflict in state 213 between rule 112 and token MIMI resolved as shift.
+Conflict in state 214 between rule 115 and token '=' resolved as reduce.
+Conflict in state 214 between rule 115 and token DEFOP resolved as reduce.
+Conflict in state 214 between rule 115 and token '?' resolved as reduce.
+Conflict in state 214 between rule 115 and token OROR resolved as reduce.
+Conflict in state 214 between rule 115 and token ANDAND resolved as reduce.
+Conflict in state 214 between rule 115 and token '|' resolved as reduce.
+Conflict in state 214 between rule 115 and token '^' resolved as reduce.
+Conflict in state 214 between rule 115 and token '&' resolved as reduce.
+Conflict in state 214 between rule 115 and token EQ resolved as reduce.
+Conflict in state 214 between rule 115 and token NE resolved as reduce.
+Conflict in state 214 between rule 115 and token '<' resolved as shift.
+Conflict in state 214 between rule 115 and token '>' resolved as shift.
+Conflict in state 214 between rule 115 and token LE resolved as shift.
+Conflict in state 214 between rule 115 and token GE resolved as shift.
+Conflict in state 214 between rule 115 and token RR resolved as shift.
+Conflict in state 214 between rule 115 and token LL resolved as shift.
+Conflict in state 214 between rule 115 and token '+' resolved as shift.
+Conflict in state 214 between rule 115 and token '-' resolved as shift.
+Conflict in state 214 between rule 115 and token '*' resolved as shift.
+Conflict in state 214 between rule 115 and token '/' resolved as shift.
+Conflict in state 214 between rule 115 and token '%' resolved as shift.
+Conflict in state 214 between rule 115 and token PLPL resolved as shift.
+Conflict in state 214 between rule 115 and token MIMI resolved as shift.
+Conflict in state 215 between rule 116 and token '=' resolved as reduce.
+Conflict in state 215 between rule 116 and token DEFOP resolved as reduce.
+Conflict in state 215 between rule 116 and token '?' resolved as reduce.
+Conflict in state 215 between rule 116 and token OROR resolved as reduce.
+Conflict in state 215 between rule 116 and token ANDAND resolved as reduce.
+Conflict in state 215 between rule 116 and token '|' resolved as reduce.
+Conflict in state 215 between rule 116 and token '^' resolved as reduce.
+Conflict in state 215 between rule 116 and token '&' resolved as reduce.
+Conflict in state 215 between rule 116 and token EQ resolved as reduce.
+Conflict in state 215 between rule 116 and token NE resolved as reduce.
+Conflict in state 215 between rule 116 and token '<' resolved as shift.
+Conflict in state 215 between rule 116 and token '>' resolved as shift.
+Conflict in state 215 between rule 116 and token LE resolved as shift.
+Conflict in state 215 between rule 116 and token GE resolved as shift.
+Conflict in state 215 between rule 116 and token RR resolved as shift.
+Conflict in state 215 between rule 116 and token LL resolved as shift.
+Conflict in state 215 between rule 116 and token '+' resolved as shift.
+Conflict in state 215 between rule 116 and token '-' resolved as shift.
+Conflict in state 215 between rule 116 and token '*' resolved as shift.
+Conflict in state 215 between rule 116 and token '/' resolved as shift.
+Conflict in state 215 between rule 116 and token '%' resolved as shift.
+Conflict in state 215 between rule 116 and token PLPL resolved as shift.
+Conflict in state 215 between rule 116 and token MIMI resolved as shift.
+Conflict in state 216 between rule 117 and token '=' resolved as reduce.
+Conflict in state 216 between rule 117 and token DEFOP resolved as reduce.
+Conflict in state 216 between rule 117 and token '?' resolved as reduce.
+Conflict in state 216 between rule 117 and token OROR resolved as reduce.
+Conflict in state 216 between rule 117 and token ANDAND resolved as reduce.
+Conflict in state 216 between rule 117 and token '|' resolved as reduce.
+Conflict in state 216 between rule 117 and token '^' resolved as reduce.
+Conflict in state 216 between rule 117 and token '&' resolved as reduce.
+Conflict in state 216 between rule 117 and token EQ resolved as reduce.
+Conflict in state 216 between rule 117 and token NE resolved as reduce.
+Conflict in state 216 between rule 117 and token '<' resolved as reduce.
+Conflict in state 216 between rule 117 and token '>' resolved as reduce.
+Conflict in state 216 between rule 117 and token LE resolved as reduce.
+Conflict in state 216 between rule 117 and token GE resolved as reduce.
+Conflict in state 216 between rule 117 and token RR resolved as shift.
+Conflict in state 216 between rule 117 and token LL resolved as shift.
+Conflict in state 216 between rule 117 and token '+' resolved as shift.
+Conflict in state 216 between rule 117 and token '-' resolved as shift.
+Conflict in state 216 between rule 117 and token '*' resolved as shift.
+Conflict in state 216 between rule 117 and token '/' resolved as shift.
+Conflict in state 216 between rule 117 and token '%' resolved as shift.
+Conflict in state 216 between rule 117 and token PLPL resolved as shift.
+Conflict in state 216 between rule 117 and token MIMI resolved as shift.
+Conflict in state 217 between rule 118 and token '=' resolved as reduce.
+Conflict in state 217 between rule 118 and token DEFOP resolved as reduce.
+Conflict in state 217 between rule 118 and token '?' resolved as reduce.
+Conflict in state 217 between rule 118 and token OROR resolved as reduce.
+Conflict in state 217 between rule 118 and token ANDAND resolved as reduce.
+Conflict in state 217 between rule 118 and token '|' resolved as reduce.
+Conflict in state 217 between rule 118 and token '^' resolved as reduce.
+Conflict in state 217 between rule 118 and token '&' resolved as reduce.
+Conflict in state 217 between rule 118 and token EQ resolved as reduce.
+Conflict in state 217 between rule 118 and token NE resolved as reduce.
+Conflict in state 217 between rule 118 and token '<' resolved as reduce.
+Conflict in state 217 between rule 118 and token '>' resolved as reduce.
+Conflict in state 217 between rule 118 and token LE resolved as reduce.
+Conflict in state 217 between rule 118 and token GE resolved as reduce.
+Conflict in state 217 between rule 118 and token RR resolved as shift.
+Conflict in state 217 between rule 118 and token LL resolved as shift.
+Conflict in state 217 between rule 118 and token '+' resolved as shift.
+Conflict in state 217 between rule 118 and token '-' resolved as shift.
+Conflict in state 217 between rule 118 and token '*' resolved as shift.
+Conflict in state 217 between rule 118 and token '/' resolved as shift.
+Conflict in state 217 between rule 118 and token '%' resolved as shift.
+Conflict in state 217 between rule 118 and token PLPL resolved as shift.
+Conflict in state 217 between rule 118 and token MIMI resolved as shift.
+Conflict in state 218 between rule 120 and token '=' resolved as reduce.
+Conflict in state 218 between rule 120 and token DEFOP resolved as reduce.
+Conflict in state 218 between rule 120 and token '?' resolved as reduce.
+Conflict in state 218 between rule 120 and token OROR resolved as reduce.
+Conflict in state 218 between rule 120 and token ANDAND resolved as reduce.
+Conflict in state 218 between rule 120 and token '|' resolved as reduce.
+Conflict in state 218 between rule 120 and token '^' resolved as reduce.
+Conflict in state 218 between rule 120 and token '&' resolved as reduce.
+Conflict in state 218 between rule 120 and token EQ resolved as reduce.
+Conflict in state 218 between rule 120 and token NE resolved as reduce.
+Conflict in state 218 between rule 120 and token '<' resolved as reduce.
+Conflict in state 218 between rule 120 and token '>' resolved as reduce.
+Conflict in state 218 between rule 120 and token LE resolved as reduce.
+Conflict in state 218 between rule 120 and token GE resolved as reduce.
+Conflict in state 218 between rule 120 and token RR resolved as shift.
+Conflict in state 218 between rule 120 and token LL resolved as shift.
+Conflict in state 218 between rule 120 and token '+' resolved as shift.
+Conflict in state 218 between rule 120 and token '-' resolved as shift.
+Conflict in state 218 between rule 120 and token '*' resolved as shift.
+Conflict in state 218 between rule 120 and token '/' resolved as shift.
+Conflict in state 218 between rule 120 and token '%' resolved as shift.
+Conflict in state 218 between rule 120 and token PLPL resolved as shift.
+Conflict in state 218 between rule 120 and token MIMI resolved as shift.
+Conflict in state 219 between rule 119 and token '=' resolved as reduce.
+Conflict in state 219 between rule 119 and token DEFOP resolved as reduce.
+Conflict in state 219 between rule 119 and token '?' resolved as reduce.
+Conflict in state 219 between rule 119 and token OROR resolved as reduce.
+Conflict in state 219 between rule 119 and token ANDAND resolved as reduce.
+Conflict in state 219 between rule 119 and token '|' resolved as reduce.
+Conflict in state 219 between rule 119 and token '^' resolved as reduce.
+Conflict in state 219 between rule 119 and token '&' resolved as reduce.
+Conflict in state 219 between rule 119 and token EQ resolved as reduce.
+Conflict in state 219 between rule 119 and token NE resolved as reduce.
+Conflict in state 219 between rule 119 and token '<' resolved as reduce.
+Conflict in state 219 between rule 119 and token '>' resolved as reduce.
+Conflict in state 219 between rule 119 and token LE resolved as reduce.
+Conflict in state 219 between rule 119 and token GE resolved as reduce.
+Conflict in state 219 between rule 119 and token RR resolved as shift.
+Conflict in state 219 between rule 119 and token LL resolved as shift.
+Conflict in state 219 between rule 119 and token '+' resolved as shift.
+Conflict in state 219 between rule 119 and token '-' resolved as shift.
+Conflict in state 219 between rule 119 and token '*' resolved as shift.
+Conflict in state 219 between rule 119 and token '/' resolved as shift.
+Conflict in state 219 between rule 119 and token '%' resolved as shift.
+Conflict in state 219 between rule 119 and token PLPL resolved as shift.
+Conflict in state 219 between rule 119 and token MIMI resolved as shift.
+Conflict in state 220 between rule 110 and token '=' resolved as reduce.
+Conflict in state 220 between rule 110 and token DEFOP resolved as reduce.
+Conflict in state 220 between rule 110 and token '?' resolved as reduce.
+Conflict in state 220 between rule 110 and token OROR resolved as reduce.
+Conflict in state 220 between rule 110 and token ANDAND resolved as reduce.
+Conflict in state 220 between rule 110 and token '|' resolved as reduce.
+Conflict in state 220 between rule 110 and token '^' resolved as reduce.
+Conflict in state 220 between rule 110 and token '&' resolved as reduce.
+Conflict in state 220 between rule 110 and token EQ resolved as reduce.
+Conflict in state 220 between rule 110 and token NE resolved as reduce.
+Conflict in state 220 between rule 110 and token '<' resolved as reduce.
+Conflict in state 220 between rule 110 and token '>' resolved as reduce.
+Conflict in state 220 between rule 110 and token LE resolved as reduce.
+Conflict in state 220 between rule 110 and token GE resolved as reduce.
+Conflict in state 220 between rule 110 and token RR resolved as reduce.
+Conflict in state 220 between rule 110 and token LL resolved as reduce.
+Conflict in state 220 between rule 110 and token '+' resolved as shift.
+Conflict in state 220 between rule 110 and token '-' resolved as shift.
+Conflict in state 220 between rule 110 and token '*' resolved as shift.
+Conflict in state 220 between rule 110 and token '/' resolved as shift.
+Conflict in state 220 between rule 110 and token '%' resolved as shift.
+Conflict in state 220 between rule 110 and token PLPL resolved as shift.
+Conflict in state 220 between rule 110 and token MIMI resolved as shift.
+Conflict in state 221 between rule 111 and token '=' resolved as reduce.
+Conflict in state 221 between rule 111 and token DEFOP resolved as reduce.
+Conflict in state 221 between rule 111 and token '?' resolved as reduce.
+Conflict in state 221 between rule 111 and token OROR resolved as reduce.
+Conflict in state 221 between rule 111 and token ANDAND resolved as reduce.
+Conflict in state 221 between rule 111 and token '|' resolved as reduce.
+Conflict in state 221 between rule 111 and token '^' resolved as reduce.
+Conflict in state 221 between rule 111 and token '&' resolved as reduce.
+Conflict in state 221 between rule 111 and token EQ resolved as reduce.
+Conflict in state 221 between rule 111 and token NE resolved as reduce.
+Conflict in state 221 between rule 111 and token '<' resolved as reduce.
+Conflict in state 221 between rule 111 and token '>' resolved as reduce.
+Conflict in state 221 between rule 111 and token LE resolved as reduce.
+Conflict in state 221 between rule 111 and token GE resolved as reduce.
+Conflict in state 221 between rule 111 and token RR resolved as reduce.
+Conflict in state 221 between rule 111 and token LL resolved as reduce.
+Conflict in state 221 between rule 111 and token '+' resolved as shift.
+Conflict in state 221 between rule 111 and token '-' resolved as shift.
+Conflict in state 221 between rule 111 and token '*' resolved as shift.
+Conflict in state 221 between rule 111 and token '/' resolved as shift.
+Conflict in state 221 between rule 111 and token '%' resolved as shift.
+Conflict in state 221 between rule 111 and token PLPL resolved as shift.
+Conflict in state 221 between rule 111 and token MIMI resolved as shift.
+Conflict in state 222 between rule 105 and token '=' resolved as reduce.
+Conflict in state 222 between rule 105 and token DEFOP resolved as reduce.
+Conflict in state 222 between rule 105 and token '?' resolved as reduce.
+Conflict in state 222 between rule 105 and token OROR resolved as reduce.
+Conflict in state 222 between rule 105 and token ANDAND resolved as reduce.
+Conflict in state 222 between rule 105 and token '|' resolved as reduce.
+Conflict in state 222 between rule 105 and token '^' resolved as reduce.
+Conflict in state 222 between rule 105 and token '&' resolved as reduce.
+Conflict in state 222 between rule 105 and token EQ resolved as reduce.
+Conflict in state 222 between rule 105 and token NE resolved as reduce.
+Conflict in state 222 between rule 105 and token '<' resolved as reduce.
+Conflict in state 222 between rule 105 and token '>' resolved as reduce.
+Conflict in state 222 between rule 105 and token LE resolved as reduce.
+Conflict in state 222 between rule 105 and token GE resolved as reduce.
+Conflict in state 222 between rule 105 and token RR resolved as reduce.
+Conflict in state 222 between rule 105 and token LL resolved as reduce.
+Conflict in state 222 between rule 105 and token '+' resolved as reduce.
+Conflict in state 222 between rule 105 and token '-' resolved as reduce.
+Conflict in state 222 between rule 105 and token '*' resolved as shift.
+Conflict in state 222 between rule 105 and token '/' resolved as shift.
+Conflict in state 222 between rule 105 and token '%' resolved as shift.
+Conflict in state 222 between rule 105 and token PLPL resolved as shift.
+Conflict in state 222 between rule 105 and token MIMI resolved as shift.
+Conflict in state 223 between rule 106 and token '=' resolved as reduce.
+Conflict in state 223 between rule 106 and token DEFOP resolved as reduce.
+Conflict in state 223 between rule 106 and token '?' resolved as reduce.
+Conflict in state 223 between rule 106 and token OROR resolved as reduce.
+Conflict in state 223 between rule 106 and token ANDAND resolved as reduce.
+Conflict in state 223 between rule 106 and token '|' resolved as reduce.
+Conflict in state 223 between rule 106 and token '^' resolved as reduce.
+Conflict in state 223 between rule 106 and token '&' resolved as reduce.
+Conflict in state 223 between rule 106 and token EQ resolved as reduce.
+Conflict in state 223 between rule 106 and token NE resolved as reduce.
+Conflict in state 223 between rule 106 and token '<' resolved as reduce.
+Conflict in state 223 between rule 106 and token '>' resolved as reduce.
+Conflict in state 223 between rule 106 and token LE resolved as reduce.
+Conflict in state 223 between rule 106 and token GE resolved as reduce.
+Conflict in state 223 between rule 106 and token RR resolved as reduce.
+Conflict in state 223 between rule 106 and token LL resolved as reduce.
+Conflict in state 223 between rule 106 and token '+' resolved as reduce.
+Conflict in state 223 between rule 106 and token '-' resolved as reduce.
+Conflict in state 223 between rule 106 and token '*' resolved as shift.
+Conflict in state 223 between rule 106 and token '/' resolved as shift.
+Conflict in state 223 between rule 106 and token '%' resolved as shift.
+Conflict in state 223 between rule 106 and token PLPL resolved as shift.
+Conflict in state 223 between rule 106 and token MIMI resolved as shift.
+Conflict in state 224 between rule 109 and token '=' resolved as reduce.
+Conflict in state 224 between rule 109 and token DEFOP resolved as reduce.
+Conflict in state 224 between rule 109 and token '?' resolved as reduce.
+Conflict in state 224 between rule 109 and token OROR resolved as reduce.
+Conflict in state 224 between rule 109 and token ANDAND resolved as reduce.
+Conflict in state 224 between rule 109 and token '|' resolved as reduce.
+Conflict in state 224 between rule 109 and token '^' resolved as reduce.
+Conflict in state 224 between rule 109 and token '&' resolved as reduce.
+Conflict in state 224 between rule 109 and token EQ resolved as reduce.
+Conflict in state 224 between rule 109 and token NE resolved as reduce.
+Conflict in state 224 between rule 109 and token '<' resolved as reduce.
+Conflict in state 224 between rule 109 and token '>' resolved as reduce.
+Conflict in state 224 between rule 109 and token LE resolved as reduce.
+Conflict in state 224 between rule 109 and token GE resolved as reduce.
+Conflict in state 224 between rule 109 and token RR resolved as reduce.
+Conflict in state 224 between rule 109 and token LL resolved as reduce.
+Conflict in state 224 between rule 109 and token '+' resolved as reduce.
+Conflict in state 224 between rule 109 and token '-' resolved as reduce.
+Conflict in state 224 between rule 109 and token '*' resolved as reduce.
+Conflict in state 224 between rule 109 and token '/' resolved as reduce.
+Conflict in state 224 between rule 109 and token '%' resolved as reduce.
+Conflict in state 224 between rule 109 and token PLPL resolved as shift.
+Conflict in state 224 between rule 109 and token MIMI resolved as shift.
+Conflict in state 225 between rule 107 and token '=' resolved as reduce.
+Conflict in state 225 between rule 107 and token DEFOP resolved as reduce.
+Conflict in state 225 between rule 107 and token '?' resolved as reduce.
+Conflict in state 225 between rule 107 and token OROR resolved as reduce.
+Conflict in state 225 between rule 107 and token ANDAND resolved as reduce.
+Conflict in state 225 between rule 107 and token '|' resolved as reduce.
+Conflict in state 225 between rule 107 and token '^' resolved as reduce.
+Conflict in state 225 between rule 107 and token '&' resolved as reduce.
+Conflict in state 225 between rule 107 and token EQ resolved as reduce.
+Conflict in state 225 between rule 107 and token NE resolved as reduce.
+Conflict in state 225 between rule 107 and token '<' resolved as reduce.
+Conflict in state 225 between rule 107 and token '>' resolved as reduce.
+Conflict in state 225 between rule 107 and token LE resolved as reduce.
+Conflict in state 225 between rule 107 and token GE resolved as reduce.
+Conflict in state 225 between rule 107 and token RR resolved as reduce.
+Conflict in state 225 between rule 107 and token LL resolved as reduce.
+Conflict in state 225 between rule 107 and token '+' resolved as reduce.
+Conflict in state 225 between rule 107 and token '-' resolved as reduce.
+Conflict in state 225 between rule 107 and token '*' resolved as reduce.
+Conflict in state 225 between rule 107 and token '/' resolved as reduce.
+Conflict in state 225 between rule 107 and token '%' resolved as reduce.
+Conflict in state 225 between rule 107 and token PLPL resolved as shift.
+Conflict in state 225 between rule 107 and token MIMI resolved as shift.
+Conflict in state 226 between rule 108 and token '=' resolved as reduce.
+Conflict in state 226 between rule 108 and token DEFOP resolved as reduce.
+Conflict in state 226 between rule 108 and token '?' resolved as reduce.
+Conflict in state 226 between rule 108 and token OROR resolved as reduce.
+Conflict in state 226 between rule 108 and token ANDAND resolved as reduce.
+Conflict in state 226 between rule 108 and token '|' resolved as reduce.
+Conflict in state 226 between rule 108 and token '^' resolved as reduce.
+Conflict in state 226 between rule 108 and token '&' resolved as reduce.
+Conflict in state 226 between rule 108 and token EQ resolved as reduce.
+Conflict in state 226 between rule 108 and token NE resolved as reduce.
+Conflict in state 226 between rule 108 and token '<' resolved as reduce.
+Conflict in state 226 between rule 108 and token '>' resolved as reduce.
+Conflict in state 226 between rule 108 and token LE resolved as reduce.
+Conflict in state 226 between rule 108 and token GE resolved as reduce.
+Conflict in state 226 between rule 108 and token RR resolved as reduce.
+Conflict in state 226 between rule 108 and token LL resolved as reduce.
+Conflict in state 226 between rule 108 and token '+' resolved as reduce.
+Conflict in state 226 between rule 108 and token '-' resolved as reduce.
+Conflict in state 226 between rule 108 and token '*' resolved as reduce.
+Conflict in state 226 between rule 108 and token '/' resolved as reduce.
+Conflict in state 226 between rule 108 and token '%' resolved as reduce.
+Conflict in state 226 between rule 108 and token PLPL resolved as shift.
+Conflict in state 226 between rule 108 and token MIMI resolved as shift.
+Conflict in state 239 between rule 47 and token RR resolved as reduce.
+Conflict in state 239 between rule 47 and token LL resolved as reduce.
+Conflict in state 239 between rule 47 and token '+' resolved as shift.
+Conflict in state 239 between rule 47 and token '-' resolved as shift.
+Conflict in state 239 between rule 47 and token '*' resolved as shift.
+Conflict in state 239 between rule 47 and token '/' resolved as shift.
+Conflict in state 240 between rule 46 and token RR resolved as reduce.
+Conflict in state 240 between rule 46 and token LL resolved as reduce.
+Conflict in state 240 between rule 46 and token '+' resolved as shift.
+Conflict in state 240 between rule 46 and token '-' resolved as shift.
+Conflict in state 240 between rule 46 and token '*' resolved as shift.
+Conflict in state 240 between rule 46 and token '/' resolved as shift.
+Conflict in state 241 between rule 42 and token RR resolved as reduce.
+Conflict in state 241 between rule 42 and token LL resolved as reduce.
+Conflict in state 241 between rule 42 and token '+' resolved as reduce.
+Conflict in state 241 between rule 42 and token '-' resolved as reduce.
+Conflict in state 241 between rule 42 and token '*' resolved as shift.
+Conflict in state 241 between rule 42 and token '/' resolved as shift.
+Conflict in state 242 between rule 43 and token RR resolved as reduce.
+Conflict in state 242 between rule 43 and token LL resolved as reduce.
+Conflict in state 242 between rule 43 and token '+' resolved as reduce.
+Conflict in state 242 between rule 43 and token '-' resolved as reduce.
+Conflict in state 242 between rule 43 and token '*' resolved as shift.
+Conflict in state 242 between rule 43 and token '/' resolved as shift.
+Conflict in state 243 between rule 44 and token RR resolved as reduce.
+Conflict in state 243 between rule 44 and token LL resolved as reduce.
+Conflict in state 243 between rule 44 and token '+' resolved as reduce.
+Conflict in state 243 between rule 44 and token '-' resolved as reduce.
+Conflict in state 243 between rule 44 and token '*' resolved as reduce.
+Conflict in state 243 between rule 44 and token '/' resolved as reduce.
+Conflict in state 244 between rule 45 and token RR resolved as reduce.
+Conflict in state 244 between rule 45 and token LL resolved as reduce.
+Conflict in state 244 between rule 45 and token '+' resolved as reduce.
+Conflict in state 244 between rule 45 and token '-' resolved as reduce.
+Conflict in state 244 between rule 45 and token '*' resolved as reduce.
+Conflict in state 244 between rule 45 and token '/' resolved as reduce.
+Conflict in state 256 between rule 130 and token '=' resolved as reduce.
+Conflict in state 256 between rule 130 and token DEFOP resolved as reduce.
+Conflict in state 256 between rule 130 and token '?' resolved as reduce.
+Conflict in state 256 between rule 130 and token OROR resolved as reduce.
+Conflict in state 256 between rule 130 and token ANDAND resolved as reduce.
+Conflict in state 256 between rule 130 and token '|' resolved as reduce.
+Conflict in state 256 between rule 130 and token '^' resolved as reduce.
+Conflict in state 256 between rule 130 and token '&' resolved as reduce.
+Conflict in state 256 between rule 130 and token EQ resolved as reduce.
+Conflict in state 256 between rule 130 and token NE resolved as reduce.
+Conflict in state 256 between rule 130 and token '<' resolved as reduce.
+Conflict in state 256 between rule 130 and token '>' resolved as reduce.
+Conflict in state 256 between rule 130 and token LE resolved as reduce.
+Conflict in state 256 between rule 130 and token GE resolved as reduce.
+Conflict in state 256 between rule 130 and token RR resolved as reduce.
+Conflict in state 256 between rule 130 and token LL resolved as reduce.
+Conflict in state 256 between rule 130 and token '+' resolved as reduce.
+Conflict in state 256 between rule 130 and token '-' resolved as reduce.
+Conflict in state 256 between rule 130 and token '*' resolved as reduce.
+Conflict in state 256 between rule 130 and token '/' resolved as reduce.
+Conflict in state 256 between rule 130 and token '%' resolved as reduce.
+Conflict in state 256 between rule 130 and token PLPL resolved as shift.
+Conflict in state 256 between rule 130 and token MIMI resolved as shift.
+Conflict in state 271 between rule 123 and token '=' resolved as reduce.
+Conflict in state 271 between rule 123 and token DEFOP resolved as reduce.
+Conflict in state 271 between rule 123 and token '?' resolved as reduce.
+Conflict in state 271 between rule 123 and token OROR resolved as shift.
+Conflict in state 271 between rule 123 and token ANDAND resolved as shift.
+Conflict in state 271 between rule 123 and token '|' resolved as shift.
+Conflict in state 271 between rule 123 and token '^' resolved as shift.
+Conflict in state 271 between rule 123 and token '&' resolved as shift.
+Conflict in state 271 between rule 123 and token EQ resolved as shift.
+Conflict in state 271 between rule 123 and token NE resolved as shift.
+Conflict in state 271 between rule 123 and token '<' resolved as shift.
+Conflict in state 271 between rule 123 and token '>' resolved as shift.
+Conflict in state 271 between rule 123 and token LE resolved as shift.
+Conflict in state 271 between rule 123 and token GE resolved as shift.
+Conflict in state 271 between rule 123 and token RR resolved as shift.
+Conflict in state 271 between rule 123 and token LL resolved as shift.
+Conflict in state 271 between rule 123 and token '+' resolved as shift.
+Conflict in state 271 between rule 123 and token '-' resolved as shift.
+Conflict in state 271 between rule 123 and token '*' resolved as shift.
+Conflict in state 271 between rule 123 and token '/' resolved as shift.
+Conflict in state 271 between rule 123 and token '%' resolved as shift.
+Conflict in state 271 between rule 123 and token PLPL resolved as shift.
+Conflict in state 271 between rule 123 and token MIMI resolved as shift.
+State 19 contains 2 shift/reduce conflicts.
+State 164 contains 2 shift/reduce conflicts.
+State 187 contains 1 shift/reduce conflict.
+State 199 contains 2 shift/reduce conflicts.
+State 232 contains 2 shift/reduce conflicts.
+
+
+token types:
+ type -1 is $
+ type 33 is '!'
+ type 37 is '%'
+ type 38 is '&'
+ type 40 is '('
+ type 41 is ')'
+ type 42 is '*'
+ type 43 is '+'
+ type 44 is ','
+ type 45 is '-'
+ type 46 is '.'
+ type 47 is '/'
+ type 58 is ':'
+ type 59 is ';'
+ type 60 is '<'
+ type 61 is '='
+ type 62 is '>'
+ type 63 is '?'
+ type 91 is '['
+ type 93 is ']'
+ type 94 is '^'
+ type 123 is '{'
+ type 124 is '|'
+ type 125 is '}'
+ type 126 is '~'
+ type 256 is error
+ type 258 is IF
+ type 259 is ELSE
+ type 260 is SWITCH
+ type 261 is CASE
+ type 262 is BREAK
+ type 263 is FOR
+ type 264 is WHILE
+ type 265 is DO
+ type 266 is CONTINUE
+ type 267 is DEFAULT
+ type 268 is GOTO
+ type 269 is RETURN
+ type 270 is NUM
+ type 271 is SYMBOL
+ type 272 is STRING
+ type 273 is ATYPEDEF
+ type 274 is STRUCTUNION
+ type 275 is SCSPEC
+ type 276 is DEFOP
+ type 277 is OROR
+ type 278 is ANDAND
+ type 279 is EQ
+ type 280 is NE
+ type 281 is LE
+ type 282 is GE
+ type 283 is RR
+ type 284 is LL
+ type 285 is IND
+ type 286 is ADDROF
+ type 287 is PLPL
+ type 288 is MIMI
+ type 289 is INV
+ type 290 is UNARY
+ type 291 is SIZEOF
+ type 292 is CAST
+ type 293 is NOTZ
+ type 294 is FCALL
+ type 295 is ARRAY
+ type 296 is RA
+ type 297 is DOT
+
+
+state 0
+
+    SYMBOL	shift, and go to state 1
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    $default	reduce using rule 1 (program)
+
+    prog2	go to state 7
+    program	go to state 277
+    external_definition	go to state 8
+    function_definition	go to state 9
+    function_header	go to state 10
+    declarator	go to state 11
+    var_type2	go to state 12
+    var_type	go to state 13
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    init_declaration	go to state 16
+
+
+
+state 1
+
+    declarator  ->  SYMBOL .   (rule 22)
+
+    $default	reduce using rule 22 (declarator)
+
+
+
+state 2
+
+    type_spec  ->  ATYPEDEF .   (rule 58)
+
+    $default	reduce using rule 58 (type_spec)
+
+
+
+state 3
+
+    type_spec  ->  STRUCTUNION . '{' struct_list '}'   (rule 59)
+    type_spec  ->  STRUCTUNION . SYMBOL '{' struct_list '}'   (rule 60)
+    type_spec  ->  STRUCTUNION . SYMBOL   (rule 61)
+
+    SYMBOL	shift, and go to state 17
+    '{' 	shift, and go to state 18
+
+
+
+state 4
+
+    sc_specifier  ->  SCSPEC .   (rule 56)
+
+    $default	reduce using rule 56 (sc_specifier)
+
+
+
+state 5
+
+    declarator  ->  '*' . declarator   (rule 25)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    declarator	go to state 19
+
+
+
+state 6
+
+    declarator  ->  '(' . declarator ')'   (rule 26)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    declarator	go to state 20
+
+
+
+state 7
+
+    program  ->  prog2 .   (rule 2)
+    prog2  ->  prog2 . external_definition   (rule 4)
+
+    SYMBOL	shift, and go to state 1
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    $default	reduce using rule 2 (program)
+
+    external_definition	go to state 21
+    function_definition	go to state 9
+    function_header	go to state 10
+    declarator	go to state 11
+    var_type2	go to state 12
+    var_type	go to state 13
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    init_declaration	go to state 16
+
+
+
+state 8
+
+    prog2  ->  external_definition .   (rule 3)
+
+    $default	reduce using rule 3 (prog2)
+
+
+
+state 9
+
+    external_definition  ->  function_definition .   (rule 5)
+
+    $default	reduce using rule 5 (external_definition)
+
+
+
+state 10
+
+    function_definition  ->  function_header . compound   (rule 7)
+
+    '{' 	shift, and go to state 22
+
+    compound	go to state 23
+
+
+
+state 11
+
+    function_header  ->  declarator . opt_declaration_list   (rule 9)
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    '(' 	shift, and go to state 24
+    '[' 	shift, and go to state 25
+
+    $default	reduce using rule 10 (opt_declaration_list)
+
+    opt_declaration_list	go to state 26
+    var_type2	go to state 12
+    var_type	go to state 27
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    declaration_list	go to state 28
+    declaration	go to state 29
+
+
+
+state 12
+
+    var_type  ->  var_type2 .   (rule 55)
+
+    $default	reduce using rule 55 (var_type)
+
+
+
+state 13
+
+    function_header  ->  var_type . declarator opt_declaration_list   (rule 8)
+    init_declaration  ->  var_type . init_declarator_list ';'   (rule 74)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    $default	reduce using rule 75 (init_declarator_list)
+
+    declarator	go to state 30
+    init_declarator_list	go to state 31
+    init_declarator	go to state 32
+    init_dec2	go to state 33
+
+
+
+state 14
+
+    var_type2  ->  sc_specifier . type_spec   (rule 52)
+    var_type2  ->  sc_specifier .   (rule 54)
+    sc_specifier  ->  sc_specifier . SCSPEC   (rule 57)
+
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 34
+
+    $default	reduce using rule 54 (var_type2)
+
+    type_spec	go to state 35
+
+
+
+state 15
+
+    var_type2  ->  type_spec .   (rule 53)
+
+    $default	reduce using rule 53 (var_type2)
+
+
+
+state 16
+
+    external_definition  ->  init_declaration .   (rule 6)
+
+    $default	reduce using rule 6 (external_definition)
+
+
+
+state 17
+
+    type_spec  ->  STRUCTUNION SYMBOL . '{' struct_list '}'   (rule 60)
+    type_spec  ->  STRUCTUNION SYMBOL .   (rule 61)
+
+    '{' 	shift, and go to state 36
+
+    $default	reduce using rule 61 (type_spec)
+
+
+
+state 18
+
+    type_spec  ->  STRUCTUNION '{' . struct_list '}'   (rule 59)
+
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+
+    var_type2	go to state 37
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    struct_list	go to state 38
+    struct_decl	go to state 39
+
+
+
+state 19
+
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  '*' declarator .   (rule 25)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+
+    '(' 	shift, and go to state 24
+    '[' 	shift, and go to state 25
+
+    '(' 	[reduce using rule 25 (declarator)]
+    '[' 	[reduce using rule 25 (declarator)]
+    $default	reduce using rule 25 (declarator)
+
+
+
+state 20
+
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  '(' declarator . ')'   (rule 26)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+
+    '(' 	shift, and go to state 24
+    ')' 	shift, and go to state 40
+    '[' 	shift, and go to state 25
+
+
+
+state 21
+
+    prog2  ->  prog2 external_definition .   (rule 4)
+
+    $default	reduce using rule 4 (prog2)
+
+
+
+state 22
+
+    compound  ->  '{' . init_declaration_list statement_list '}'   (rule 12)
+    compound  ->  '{' . statement_list '}'   (rule 13)
+    compound  ->  '{' . init_declaration_list '}'   (rule 14)
+    compound  ->  '{' . '}'   (rule 15)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '}' 	shift, and go to state 62
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement_list	go to state 68
+    var_type2	go to state 12
+    var_type	go to state 69
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    init_declaration_list	go to state 70
+    init_declaration	go to state 71
+    statement	go to state 72
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 23
+
+    function_definition  ->  function_header compound .   (rule 7)
+
+    $default	reduce using rule 7 (function_definition)
+
+
+
+state 24
+
+    declarator  ->  declarator '(' . parameter_list ')'   (rule 23)
+    declarator  ->  declarator '(' . ')'   (rule 24)
+
+    SYMBOL	shift, and go to state 77
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    ')' 	shift, and go to state 78
+
+    parameter	go to state 79
+    parameter_list	go to state 80
+    var_type2	go to state 81
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+
+
+
+state 25
+
+    declarator  ->  declarator '[' . cexprop ']'   (rule 27)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    $default	reduce using rule 39 (cexprop)
+
+    cexprop	go to state 85
+    cexpr	go to state 86
+
+
+
+state 26
+
+    function_header  ->  declarator opt_declaration_list .   (rule 9)
+
+    $default	reduce using rule 9 (function_header)
+
+
+
+state 27
+
+    declaration  ->  var_type . declarator_list ';'   (rule 69)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    declarator	go to state 87
+    declarator_list	go to state 88
+
+
+
+state 28
+
+    opt_declaration_list  ->  declaration_list .   (rule 11)
+    declaration_list  ->  declaration_list . declaration   (rule 68)
+
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+
+    $default	reduce using rule 11 (opt_declaration_list)
+
+    var_type2	go to state 12
+    var_type	go to state 27
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    declaration	go to state 89
+
+
+
+state 29
+
+    declaration_list  ->  declaration .   (rule 67)
+
+    $default	reduce using rule 67 (declaration_list)
+
+
+
+state 30
+
+    function_header  ->  var_type declarator . opt_declaration_list   (rule 8)
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+    init_declarator  ->  declarator .   (rule 78)
+    init_dec2  ->  declarator . '='   (rule 81)
+
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    '=' 	shift, and go to state 90
+    '(' 	shift, and go to state 24
+    '[' 	shift, and go to state 25
+
+    '{' 	reduce using rule 10 (opt_declaration_list)
+    $default	reduce using rule 78 (init_declarator)
+
+    opt_declaration_list	go to state 91
+    var_type2	go to state 12
+    var_type	go to state 27
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    declaration_list	go to state 28
+    declaration	go to state 29
+
+
+
+state 31
+
+    init_declaration  ->  var_type init_declarator_list . ';'   (rule 74)
+    init_declarator_list  ->  init_declarator_list . ',' init_declarator   (rule 77)
+
+    ',' 	shift, and go to state 92
+    ';' 	shift, and go to state 93
+
+
+
+state 32
+
+    init_declarator_list  ->  init_declarator .   (rule 76)
+
+    $default	reduce using rule 76 (init_declarator_list)
+
+
+
+state 33
+
+    init_declarator  ->  init_dec2 . expr   (rule 79)
+    init_declarator  ->  init_dec2 . '{' initlist '}'   (rule 80)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 95
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 96
+    primary	go to state 76
+
+
+
+state 34
+
+    sc_specifier  ->  sc_specifier SCSPEC .   (rule 57)
+
+    $default	reduce using rule 57 (sc_specifier)
+
+
+
+state 35
+
+    var_type2  ->  sc_specifier type_spec .   (rule 52)
+
+    $default	reduce using rule 52 (var_type2)
+
+
+
+state 36
+
+    type_spec  ->  STRUCTUNION SYMBOL '{' . struct_list '}'   (rule 60)
+
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+
+    var_type2	go to state 37
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    struct_list	go to state 97
+    struct_decl	go to state 39
+
+
+
+state 37
+
+    struct_decl  ->  var_type2 . struct_decl_list ';'   (rule 64)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    declarator	go to state 98
+    struct_decl_list	go to state 99
+
+
+
+state 38
+
+    type_spec  ->  STRUCTUNION '{' struct_list . '}'   (rule 59)
+    struct_list  ->  struct_list . struct_decl   (rule 63)
+
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    '}' 	shift, and go to state 100
+
+    var_type2	go to state 37
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    struct_decl	go to state 101
+
+
+
+state 39
+
+    struct_list  ->  struct_decl .   (rule 62)
+
+    $default	reduce using rule 62 (struct_list)
+
+
+
+state 40
+
+    declarator  ->  '(' declarator ')' .   (rule 26)
+
+    $default	reduce using rule 26 (declarator)
+
+
+
+state 41
+
+    statement  ->  IF . cond statement   (rule 92)
+    statement  ->  IF . cond statement ELSE statement   (rule 93)
+
+    '(' 	shift, and go to state 102
+
+    cond	go to state 103
+
+
+
+state 42
+
+    switchkw  ->  SWITCH .   (rule 100)
+
+    $default	reduce using rule 100 (switchkw)
+
+
+
+state 43
+
+    statement  ->  CASE . cexpr ':' statement   (rule 98)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 104
+
+
+
+state 44
+
+    statement  ->  BREAK . ';'   (rule 88)
+
+    ';' 	shift, and go to state 105
+
+
+
+state 45
+
+    statement  ->  FOR . '(' opexpr ';' opexpr ';' opexpr ')' statement   (rule 95)
+
+    '(' 	shift, and go to state 106
+
+
+
+state 46
+
+    statement  ->  WHILE . cond statement   (rule 94)
+
+    '(' 	shift, and go to state 102
+
+    cond	go to state 107
+
+
+
+state 47
+
+    statement  ->  DO . statement WHILE cond ';'   (rule 96)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 108
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 48
+
+    statement  ->  CONTINUE . ';'   (rule 87)
+
+    ';' 	shift, and go to state 109
+
+
+
+state 49
+
+    statement  ->  DEFAULT . ':' statement   (rule 99)
+
+    ':' 	shift, and go to state 110
+
+
+
+state 50
+
+    statement  ->  GOTO . SYMBOL ';'   (rule 89)
+
+    SYMBOL	shift, and go to state 111
+
+
+
+state 51
+
+    statement  ->  RETURN . opexpr ';'   (rule 86)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    $default	reduce using rule 145 (opexpr)
+
+    sizeofobj	go to state 67
+    commaexpr	go to state 112
+    expr	go to state 75
+    primary	go to state 76
+    opexpr	go to state 113
+
+
+
+state 52
+
+    primary  ->  NUM .   (rule 138)
+
+    $default	reduce using rule 138 (primary)
+
+
+
+state 53
+
+    statement  ->  SYMBOL . ':' statement   (rule 85)
+    primary  ->  SYMBOL .   (rule 136)
+
+    ':' 	shift, and go to state 114
+
+    $default	reduce using rule 136 (primary)
+
+
+
+state 54
+
+    primary  ->  STRING .   (rule 137)
+
+    $default	reduce using rule 137 (primary)
+
+
+
+state 55
+
+    expr  ->  '&' . expr   (rule 131)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 115
+    primary	go to state 76
+
+
+
+state 56
+
+    expr  ->  '-' . expr   (rule 133)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 116
+    primary	go to state 76
+
+
+
+state 57
+
+    expr  ->  '*' . expr   (rule 132)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 117
+    primary	go to state 76
+
+
+
+state 58
+
+    expr  ->  '~' . expr   (rule 134)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 118
+    primary	go to state 76
+
+
+
+state 59
+
+    expr  ->  PLPL . expr   (rule 126)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 119
+    primary	go to state 76
+
+
+
+state 60
+
+    expr  ->  MIMI . expr   (rule 128)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 120
+    primary	go to state 76
+
+
+
+state 61
+
+    sizeofobj  ->  SIZEOF . '(' type_spec abstract ')'   (rule 37)
+    sizeofobj  ->  SIZEOF . '(' var_type2 ')'   (rule 38)
+
+    '(' 	shift, and go to state 121
+
+
+
+state 62
+
+    compound  ->  '{' '}' .   (rule 15)
+
+    $default	reduce using rule 15 (compound)
+
+
+
+state 63
+
+    expr  ->  '(' . type_name ')' expr   (rule 130)
+    primary  ->  '(' . expr ')'   (rule 139)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    type_name	go to state 122
+    sizeofobj	go to state 67
+    var_type2	go to state 123
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    expr	go to state 124
+    primary	go to state 76
+
+
+
+state 64
+
+    statement  ->  ';' .   (rule 84)
+
+    $default	reduce using rule 84 (statement)
+
+
+
+state 65
+
+    expr  ->  '!' . expr   (rule 135)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 125
+    primary	go to state 76
+
+
+
+state 66
+
+    statement  ->  compound .   (rule 91)
+
+    $default	reduce using rule 91 (statement)
+
+
+
+state 67
+
+    primary  ->  sizeofobj .   (rule 142)
+
+    $default	reduce using rule 142 (primary)
+
+
+
+state 68
+
+    compound  ->  '{' statement_list . '}'   (rule 13)
+    statement_list  ->  statement_list . statement   (rule 51)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '}' 	shift, and go to state 126
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 127
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 69
+
+    init_declaration  ->  var_type . init_declarator_list ';'   (rule 74)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    $default	reduce using rule 75 (init_declarator_list)
+
+    declarator	go to state 128
+    init_declarator_list	go to state 31
+    init_declarator	go to state 32
+    init_dec2	go to state 33
+
+
+
+state 70
+
+    compound  ->  '{' init_declaration_list . statement_list '}'   (rule 12)
+    compound  ->  '{' init_declaration_list . '}'   (rule 14)
+    init_declaration_list  ->  init_declaration_list . init_declaration   (rule 73)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '}' 	shift, and go to state 129
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement_list	go to state 130
+    var_type2	go to state 12
+    var_type	go to state 69
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    init_declaration	go to state 131
+    statement	go to state 72
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 71
+
+    init_declaration_list  ->  init_declaration .   (rule 72)
+
+    $default	reduce using rule 72 (init_declaration_list)
+
+
+
+state 72
+
+    statement_list  ->  statement .   (rule 50)
+
+    $default	reduce using rule 50 (statement_list)
+
+
+
+state 73
+
+    statement  ->  switchkw . '(' expr ')' statement   (rule 97)
+
+    '(' 	shift, and go to state 132
+
+
+
+state 74
+
+    statement  ->  commaexpr . ';'   (rule 90)
+    commaexpr  ->  commaexpr . ',' commaexpr   (rule 103)
+
+    ',' 	shift, and go to state 133
+    ';' 	shift, and go to state 134
+
+
+
+state 75
+
+    commaexpr  ->  expr .   (rule 102)
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 102 (commaexpr)
+
+
+
+state 76
+
+    expr  ->  primary .   (rule 104)
+    primary  ->  primary . '(' opexpr ')'   (rule 140)
+    primary  ->  primary . '[' expr ']'   (rule 141)
+    primary  ->  primary . RA SYMBOL   (rule 143)
+    primary  ->  primary . '.' SYMBOL   (rule 144)
+
+    RA  	shift, and go to state 158
+    '(' 	shift, and go to state 159
+    '[' 	shift, and go to state 160
+    '.' 	shift, and go to state 161
+
+    $default	reduce using rule 104 (expr)
+
+
+
+state 77
+
+    parameter  ->  SYMBOL .   (rule 16)
+
+    $default	reduce using rule 16 (parameter)
+
+
+
+state 78
+
+    declarator  ->  declarator '(' ')' .   (rule 24)
+
+    $default	reduce using rule 24 (declarator)
+
+
+
+state 79
+
+    parameter_list  ->  parameter .   (rule 20)
+    parameter_list  ->  parameter . ',' parameter_list   (rule 21)
+
+    ',' 	shift, and go to state 162
+
+    $default	reduce using rule 20 (parameter_list)
+
+
+
+state 80
+
+    declarator  ->  declarator '(' parameter_list . ')'   (rule 23)
+
+    ')' 	shift, and go to state 163
+
+
+
+state 81
+
+    parameter  ->  var_type2 . declarator   (rule 17)
+    parameter  ->  var_type2 . abstract   (rule 18)
+    parameter  ->  var_type2 .   (rule 19)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 164
+    '(' 	shift, and go to state 165
+    '[' 	shift, and go to state 166
+
+    $default	reduce using rule 19 (parameter)
+
+    declarator	go to state 167
+    abstract	go to state 168
+
+
+
+state 82
+
+    cexpr  ->  NUM .   (rule 41)
+
+    $default	reduce using rule 41 (cexpr)
+
+
+
+state 83
+
+    cexpr  ->  '-' . cexpr   (rule 48)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 169
+
+
+
+state 84
+
+    cexpr  ->  '(' . cexpr ')'   (rule 49)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 170
+
+
+
+state 85
+
+    declarator  ->  declarator '[' cexprop . ']'   (rule 27)
+
+    ']' 	shift, and go to state 171
+
+
+
+state 86
+
+    cexprop  ->  cexpr .   (rule 40)
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+
+    RR  	shift, and go to state 172
+    LL  	shift, and go to state 173
+    '+' 	shift, and go to state 174
+    '-' 	shift, and go to state 175
+    '*' 	shift, and go to state 176
+    '/' 	shift, and go to state 177
+
+    $default	reduce using rule 40 (cexprop)
+
+
+
+state 87
+
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+    declarator_list  ->  declarator .   (rule 70)
+
+    '(' 	shift, and go to state 24
+    '[' 	shift, and go to state 25
+
+    $default	reduce using rule 70 (declarator_list)
+
+
+
+state 88
+
+    declaration  ->  var_type declarator_list . ';'   (rule 69)
+    declarator_list  ->  declarator_list . ',' declarator   (rule 71)
+
+    ',' 	shift, and go to state 178
+    ';' 	shift, and go to state 179
+
+
+
+state 89
+
+    declaration_list  ->  declaration_list declaration .   (rule 68)
+
+    $default	reduce using rule 68 (declaration_list)
+
+
+
+state 90
+
+    init_dec2  ->  declarator '=' .   (rule 81)
+
+    $default	reduce using rule 81 (init_dec2)
+
+
+
+state 91
+
+    function_header  ->  var_type declarator opt_declaration_list .   (rule 8)
+
+    $default	reduce using rule 8 (function_header)
+
+
+
+state 92
+
+    init_declarator_list  ->  init_declarator_list ',' . init_declarator   (rule 77)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    declarator	go to state 128
+    init_declarator	go to state 180
+    init_dec2	go to state 33
+
+
+
+state 93
+
+    init_declaration  ->  var_type init_declarator_list ';' .   (rule 74)
+
+    $default	reduce using rule 74 (init_declaration)
+
+
+
+state 94
+
+    primary  ->  SYMBOL .   (rule 136)
+
+    $default	reduce using rule 136 (primary)
+
+
+
+state 95
+
+    init_declarator  ->  init_dec2 '{' . initlist '}'   (rule 80)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    initlist	go to state 181
+    expr	go to state 182
+    primary	go to state 76
+
+
+
+state 96
+
+    init_declarator  ->  init_dec2 expr .   (rule 79)
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 79 (init_declarator)
+
+
+
+state 97
+
+    type_spec  ->  STRUCTUNION SYMBOL '{' struct_list . '}'   (rule 60)
+    struct_list  ->  struct_list . struct_decl   (rule 63)
+
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+    '}' 	shift, and go to state 183
+
+    var_type2	go to state 37
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+    struct_decl	go to state 101
+
+
+
+state 98
+
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+    struct_decl_list  ->  declarator .   (rule 65)
+
+    '(' 	shift, and go to state 24
+    '[' 	shift, and go to state 25
+
+    $default	reduce using rule 65 (struct_decl_list)
+
+
+
+state 99
+
+    struct_decl  ->  var_type2 struct_decl_list . ';'   (rule 64)
+    struct_decl_list  ->  struct_decl_list . ',' declarator   (rule 66)
+
+    ',' 	shift, and go to state 184
+    ';' 	shift, and go to state 185
+
+
+
+state 100
+
+    type_spec  ->  STRUCTUNION '{' struct_list '}' .   (rule 59)
+
+    $default	reduce using rule 59 (type_spec)
+
+
+
+state 101
+
+    struct_list  ->  struct_list struct_decl .   (rule 63)
+
+    $default	reduce using rule 63 (struct_list)
+
+
+
+state 102
+
+    cond  ->  '(' . opexpr ')'   (rule 101)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    $default	reduce using rule 145 (opexpr)
+
+    sizeofobj	go to state 67
+    commaexpr	go to state 112
+    expr	go to state 75
+    primary	go to state 76
+    opexpr	go to state 186
+
+
+
+state 103
+
+    statement  ->  IF cond . statement   (rule 92)
+    statement  ->  IF cond . statement ELSE statement   (rule 93)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 187
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 104
+
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+    statement  ->  CASE cexpr . ':' statement   (rule 98)
+
+    ':' 	shift, and go to state 188
+    RR  	shift, and go to state 172
+    LL  	shift, and go to state 173
+    '+' 	shift, and go to state 174
+    '-' 	shift, and go to state 175
+    '*' 	shift, and go to state 176
+    '/' 	shift, and go to state 177
+
+
+
+state 105
+
+    statement  ->  BREAK ';' .   (rule 88)
+
+    $default	reduce using rule 88 (statement)
+
+
+
+state 106
+
+    statement  ->  FOR '(' . opexpr ';' opexpr ';' opexpr ')' statement   (rule 95)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    $default	reduce using rule 145 (opexpr)
+
+    sizeofobj	go to state 67
+    commaexpr	go to state 112
+    expr	go to state 75
+    primary	go to state 76
+    opexpr	go to state 189
+
+
+
+state 107
+
+    statement  ->  WHILE cond . statement   (rule 94)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 190
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 108
+
+    statement  ->  DO statement . WHILE cond ';'   (rule 96)
+
+    WHILE	shift, and go to state 191
+
+
+
+state 109
+
+    statement  ->  CONTINUE ';' .   (rule 87)
+
+    $default	reduce using rule 87 (statement)
+
+
+
+state 110
+
+    statement  ->  DEFAULT ':' . statement   (rule 99)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 192
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 111
+
+    statement  ->  GOTO SYMBOL . ';'   (rule 89)
+
+    ';' 	shift, and go to state 193
+
+
+
+state 112
+
+    commaexpr  ->  commaexpr . ',' commaexpr   (rule 103)
+    opexpr  ->  commaexpr .   (rule 146)
+
+    ',' 	shift, and go to state 133
+
+    $default	reduce using rule 146 (opexpr)
+
+
+
+state 113
+
+    statement  ->  RETURN opexpr . ';'   (rule 86)
+
+    ';' 	shift, and go to state 194
+
+
+
+state 114
+
+    statement  ->  SYMBOL ':' . statement   (rule 85)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 195
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 115
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+    expr  ->  '&' expr .   (rule 131)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 131 (expr)
+
+
+
+state 116
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+    expr  ->  '-' expr .   (rule 133)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 133 (expr)
+
+
+
+state 117
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+    expr  ->  '*' expr .   (rule 132)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 132 (expr)
+
+
+
+state 118
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+    expr  ->  '~' expr .   (rule 134)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 134 (expr)
+
+
+
+state 119
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  PLPL expr .   (rule 126)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 126 (expr)
+
+
+
+state 120
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  MIMI expr .   (rule 128)
+    expr  ->  expr . MIMI   (rule 129)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 128 (expr)
+
+
+
+state 121
+
+    sizeofobj  ->  SIZEOF '(' . type_spec abstract ')'   (rule 37)
+    sizeofobj  ->  SIZEOF '(' . var_type2 ')'   (rule 38)
+
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+
+    var_type2	go to state 196
+    sc_specifier	go to state 14
+    type_spec	go to state 197
+
+
+
+state 122
+
+    expr  ->  '(' type_name . ')' expr   (rule 130)
+
+    ')' 	shift, and go to state 198
+
+
+
+state 123
+
+    type_name  ->  var_type2 . abstract   (rule 28)
+    type_name  ->  var_type2 .   (rule 29)
+
+    '*' 	shift, and go to state 199
+    '(' 	shift, and go to state 200
+    '[' 	shift, and go to state 166
+
+    $default	reduce using rule 29 (type_name)
+
+    abstract	go to state 201
+
+
+
+state 124
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+    primary  ->  '(' expr . ')'   (rule 139)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+    ')' 	shift, and go to state 202
+
+
+
+state 125
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+    expr  ->  '!' expr .   (rule 135)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 135 (expr)
+
+
+
+state 126
+
+    compound  ->  '{' statement_list '}' .   (rule 13)
+
+    $default	reduce using rule 13 (compound)
+
+
+
+state 127
+
+    statement_list  ->  statement_list statement .   (rule 51)
+
+    $default	reduce using rule 51 (statement_list)
+
+
+
+state 128
+
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+    init_declarator  ->  declarator .   (rule 78)
+    init_dec2  ->  declarator . '='   (rule 81)
+
+    '=' 	shift, and go to state 90
+    '(' 	shift, and go to state 24
+    '[' 	shift, and go to state 25
+
+    $default	reduce using rule 78 (init_declarator)
+
+
+
+state 129
+
+    compound  ->  '{' init_declaration_list '}' .   (rule 14)
+
+    $default	reduce using rule 14 (compound)
+
+
+
+state 130
+
+    compound  ->  '{' init_declaration_list statement_list . '}'   (rule 12)
+    statement_list  ->  statement_list . statement   (rule 51)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '}' 	shift, and go to state 203
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 127
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 131
+
+    init_declaration_list  ->  init_declaration_list init_declaration .   (rule 73)
+
+    $default	reduce using rule 73 (init_declaration_list)
+
+
+
+state 132
+
+    statement  ->  switchkw '(' . expr ')' statement   (rule 97)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 204
+    primary	go to state 76
+
+
+
+state 133
+
+    commaexpr  ->  commaexpr ',' . commaexpr   (rule 103)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    commaexpr	go to state 205
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 134
+
+    statement  ->  commaexpr ';' .   (rule 90)
+
+    $default	reduce using rule 90 (statement)
+
+
+
+state 135
+
+    expr  ->  expr '=' . expr   (rule 125)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 206
+    primary	go to state 76
+
+
+
+state 136
+
+    expr  ->  expr DEFOP . expr   (rule 124)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 207
+    primary	go to state 76
+
+
+
+state 137
+
+    expr  ->  expr '?' . expr ':' expr   (rule 123)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 208
+    primary	go to state 76
+
+
+
+state 138
+
+    expr  ->  expr OROR . expr   (rule 122)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 209
+    primary	go to state 76
+
+
+
+state 139
+
+    expr  ->  expr ANDAND . expr   (rule 121)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 210
+    primary	go to state 76
+
+
+
+state 140
+
+    expr  ->  expr '|' . expr   (rule 113)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 211
+    primary	go to state 76
+
+
+
+state 141
+
+    expr  ->  expr '^' . expr   (rule 114)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 212
+    primary	go to state 76
+
+
+
+state 142
+
+    expr  ->  expr '&' . expr   (rule 112)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 213
+    primary	go to state 76
+
+
+
+state 143
+
+    expr  ->  expr EQ . expr   (rule 115)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 214
+    primary	go to state 76
+
+
+
+state 144
+
+    expr  ->  expr NE . expr   (rule 116)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 215
+    primary	go to state 76
+
+
+
+state 145
+
+    expr  ->  expr '<' . expr   (rule 117)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 216
+    primary	go to state 76
+
+
+
+state 146
+
+    expr  ->  expr '>' . expr   (rule 118)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 217
+    primary	go to state 76
+
+
+
+state 147
+
+    expr  ->  expr LE . expr   (rule 120)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 218
+    primary	go to state 76
+
+
+
+state 148
+
+    expr  ->  expr GE . expr   (rule 119)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 219
+    primary	go to state 76
+
+
+
+state 149
+
+    expr  ->  expr RR . expr   (rule 110)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 220
+    primary	go to state 76
+
+
+
+state 150
+
+    expr  ->  expr LL . expr   (rule 111)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 221
+    primary	go to state 76
+
+
+
+state 151
+
+    expr  ->  expr '+' . expr   (rule 105)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 222
+    primary	go to state 76
+
+
+
+state 152
+
+    expr  ->  expr '-' . expr   (rule 106)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 223
+    primary	go to state 76
+
+
+
+state 153
+
+    expr  ->  expr '*' . expr   (rule 109)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 224
+    primary	go to state 76
+
+
+
+state 154
+
+    expr  ->  expr '/' . expr   (rule 107)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 225
+    primary	go to state 76
+
+
+
+state 155
+
+    expr  ->  expr '%' . expr   (rule 108)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 226
+    primary	go to state 76
+
+
+
+state 156
+
+    expr  ->  expr PLPL .   (rule 127)
+
+    $default	reduce using rule 127 (expr)
+
+
+
+state 157
+
+    expr  ->  expr MIMI .   (rule 129)
+
+    $default	reduce using rule 129 (expr)
+
+
+
+state 158
+
+    primary  ->  primary RA . SYMBOL   (rule 143)
+
+    SYMBOL	shift, and go to state 227
+
+
+
+state 159
+
+    primary  ->  primary '(' . opexpr ')'   (rule 140)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    $default	reduce using rule 145 (opexpr)
+
+    sizeofobj	go to state 67
+    commaexpr	go to state 112
+    expr	go to state 75
+    primary	go to state 76
+    opexpr	go to state 228
+
+
+
+state 160
+
+    primary  ->  primary '[' . expr ']'   (rule 141)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 229
+    primary	go to state 76
+
+
+
+state 161
+
+    primary  ->  primary '.' . SYMBOL   (rule 144)
+
+    SYMBOL	shift, and go to state 230
+
+
+
+state 162
+
+    parameter_list  ->  parameter ',' . parameter_list   (rule 21)
+
+    SYMBOL	shift, and go to state 77
+    ATYPEDEF	shift, and go to state 2
+    STRUCTUNION	shift, and go to state 3
+    SCSPEC	shift, and go to state 4
+
+    parameter	go to state 79
+    parameter_list	go to state 231
+    var_type2	go to state 81
+    sc_specifier	go to state 14
+    type_spec	go to state 15
+
+
+
+state 163
+
+    declarator  ->  declarator '(' parameter_list ')' .   (rule 23)
+
+    $default	reduce using rule 23 (declarator)
+
+
+
+state 164
+
+    declarator  ->  '*' . declarator   (rule 25)
+    abstract  ->  '*' . abstract   (rule 31)
+    abstract  ->  '*' .   (rule 32)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 164
+    '(' 	shift, and go to state 165
+    '[' 	shift, and go to state 166
+
+    '(' 	[reduce using rule 32 (abstract)]
+    '[' 	[reduce using rule 32 (abstract)]
+    $default	reduce using rule 32 (abstract)
+
+    declarator	go to state 19
+    abstract	go to state 232
+
+
+
+state 165
+
+    declarator  ->  '(' . declarator ')'   (rule 26)
+    abstract  ->  '(' . abstract ')'   (rule 30)
+    abstract  ->  '(' . ')'   (rule 34)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 164
+    '(' 	shift, and go to state 165
+    ')' 	shift, and go to state 233
+    '[' 	shift, and go to state 166
+
+    declarator	go to state 20
+    abstract	go to state 234
+
+
+
+state 166
+
+    abstract  ->  '[' . cexpr ']'   (rule 36)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 235
+
+
+
+state 167
+
+    parameter  ->  var_type2 declarator .   (rule 17)
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+
+    '(' 	shift, and go to state 24
+    '[' 	shift, and go to state 25
+
+    $default	reduce using rule 17 (parameter)
+
+
+
+state 168
+
+    parameter  ->  var_type2 abstract .   (rule 18)
+    abstract  ->  abstract . '(' ')'   (rule 33)
+    abstract  ->  abstract . '[' cexpr ']'   (rule 35)
+
+    '(' 	shift, and go to state 236
+    '[' 	shift, and go to state 237
+
+    $default	reduce using rule 18 (parameter)
+
+
+
+state 169
+
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+    cexpr  ->  '-' cexpr .   (rule 48)
+
+
+    $default	reduce using rule 48 (cexpr)
+
+
+
+state 170
+
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+    cexpr  ->  '(' cexpr . ')'   (rule 49)
+
+    RR  	shift, and go to state 172
+    LL  	shift, and go to state 173
+    '+' 	shift, and go to state 174
+    '-' 	shift, and go to state 175
+    '*' 	shift, and go to state 176
+    '/' 	shift, and go to state 177
+    ')' 	shift, and go to state 238
+
+
+
+state 171
+
+    declarator  ->  declarator '[' cexprop ']' .   (rule 27)
+
+    $default	reduce using rule 27 (declarator)
+
+
+
+state 172
+
+    cexpr  ->  cexpr RR . cexpr   (rule 47)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 239
+
+
+
+state 173
+
+    cexpr  ->  cexpr LL . cexpr   (rule 46)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 240
+
+
+
+state 174
+
+    cexpr  ->  cexpr '+' . cexpr   (rule 42)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 241
+
+
+
+state 175
+
+    cexpr  ->  cexpr '-' . cexpr   (rule 43)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 242
+
+
+
+state 176
+
+    cexpr  ->  cexpr '*' . cexpr   (rule 44)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 243
+
+
+
+state 177
+
+    cexpr  ->  cexpr '/' . cexpr   (rule 45)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 244
+
+
+
+state 178
+
+    declarator_list  ->  declarator_list ',' . declarator   (rule 71)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    declarator	go to state 245
+
+
+
+state 179
+
+    declaration  ->  var_type declarator_list ';' .   (rule 69)
+
+    $default	reduce using rule 69 (declaration)
+
+
+
+state 180
+
+    init_declarator_list  ->  init_declarator_list ',' init_declarator .   (rule 77)
+
+    $default	reduce using rule 77 (init_declarator_list)
+
+
+
+state 181
+
+    init_declarator  ->  init_dec2 '{' initlist . '}'   (rule 80)
+    initlist  ->  initlist . ',' expr   (rule 83)
+
+    ',' 	shift, and go to state 246
+    '}' 	shift, and go to state 247
+
+
+
+state 182
+
+    initlist  ->  expr .   (rule 82)
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 82 (initlist)
+
+
+
+state 183
+
+    type_spec  ->  STRUCTUNION SYMBOL '{' struct_list '}' .   (rule 60)
+
+    $default	reduce using rule 60 (type_spec)
+
+
+
+state 184
+
+    struct_decl_list  ->  struct_decl_list ',' . declarator   (rule 66)
+
+    SYMBOL	shift, and go to state 1
+    '*' 	shift, and go to state 5
+    '(' 	shift, and go to state 6
+
+    declarator	go to state 248
+
+
+
+state 185
+
+    struct_decl  ->  var_type2 struct_decl_list ';' .   (rule 64)
+
+    $default	reduce using rule 64 (struct_decl)
+
+
+
+state 186
+
+    cond  ->  '(' opexpr . ')'   (rule 101)
+
+    ')' 	shift, and go to state 249
+
+
+
+state 187
+
+    statement  ->  IF cond statement .   (rule 92)
+    statement  ->  IF cond statement . ELSE statement   (rule 93)
+
+    ELSE	shift, and go to state 250
+
+    ELSE	[reduce using rule 92 (statement)]
+    $default	reduce using rule 92 (statement)
+
+
+
+state 188
+
+    statement  ->  CASE cexpr ':' . statement   (rule 98)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 251
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 189
+
+    statement  ->  FOR '(' opexpr . ';' opexpr ';' opexpr ')' statement   (rule 95)
+
+    ';' 	shift, and go to state 252
+
+
+
+state 190
+
+    statement  ->  WHILE cond statement .   (rule 94)
+
+    $default	reduce using rule 94 (statement)
+
+
+
+state 191
+
+    statement  ->  DO statement WHILE . cond ';'   (rule 96)
+
+    '(' 	shift, and go to state 102
+
+    cond	go to state 253
+
+
+
+state 192
+
+    statement  ->  DEFAULT ':' statement .   (rule 99)
+
+    $default	reduce using rule 99 (statement)
+
+
+
+state 193
+
+    statement  ->  GOTO SYMBOL ';' .   (rule 89)
+
+    $default	reduce using rule 89 (statement)
+
+
+
+state 194
+
+    statement  ->  RETURN opexpr ';' .   (rule 86)
+
+    $default	reduce using rule 86 (statement)
+
+
+
+state 195
+
+    statement  ->  SYMBOL ':' statement .   (rule 85)
+
+    $default	reduce using rule 85 (statement)
+
+
+
+state 196
+
+    sizeofobj  ->  SIZEOF '(' var_type2 . ')'   (rule 38)
+
+    ')' 	shift, and go to state 254
+
+
+
+state 197
+
+    sizeofobj  ->  SIZEOF '(' type_spec . abstract ')'   (rule 37)
+    var_type2  ->  type_spec .   (rule 53)
+
+    '*' 	shift, and go to state 199
+    '(' 	shift, and go to state 200
+    '[' 	shift, and go to state 166
+
+    $default	reduce using rule 53 (var_type2)
+
+    abstract	go to state 255
+
+
+
+state 198
+
+    expr  ->  '(' type_name ')' . expr   (rule 130)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 256
+    primary	go to state 76
+
+
+
+state 199
+
+    abstract  ->  '*' . abstract   (rule 31)
+    abstract  ->  '*' .   (rule 32)
+
+    '*' 	shift, and go to state 199
+    '(' 	shift, and go to state 200
+    '[' 	shift, and go to state 166
+
+    '(' 	[reduce using rule 32 (abstract)]
+    '[' 	[reduce using rule 32 (abstract)]
+    $default	reduce using rule 32 (abstract)
+
+    abstract	go to state 232
+
+
+
+state 200
+
+    abstract  ->  '(' . abstract ')'   (rule 30)
+    abstract  ->  '(' . ')'   (rule 34)
+
+    '*' 	shift, and go to state 199
+    '(' 	shift, and go to state 200
+    ')' 	shift, and go to state 233
+    '[' 	shift, and go to state 166
+
+    abstract	go to state 234
+
+
+
+state 201
+
+    type_name  ->  var_type2 abstract .   (rule 28)
+    abstract  ->  abstract . '(' ')'   (rule 33)
+    abstract  ->  abstract . '[' cexpr ']'   (rule 35)
+
+    '(' 	shift, and go to state 236
+    '[' 	shift, and go to state 237
+
+    $default	reduce using rule 28 (type_name)
+
+
+
+state 202
+
+    primary  ->  '(' expr ')' .   (rule 139)
+
+    $default	reduce using rule 139 (primary)
+
+
+
+state 203
+
+    compound  ->  '{' init_declaration_list statement_list '}' .   (rule 12)
+
+    $default	reduce using rule 12 (compound)
+
+
+
+state 204
+
+    statement  ->  switchkw '(' expr . ')' statement   (rule 97)
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+    ')' 	shift, and go to state 257
+
+
+
+state 205
+
+    commaexpr  ->  commaexpr . ',' commaexpr   (rule 103)
+    commaexpr  ->  commaexpr ',' commaexpr .   (rule 103)
+
+
+    $default	reduce using rule 103 (commaexpr)
+
+
+
+state 206
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr '=' expr .   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 125 (expr)
+
+
+
+state 207
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr DEFOP expr .   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 124 (expr)
+
+
+
+state 208
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr '?' expr . ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    ':' 	shift, and go to state 258
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+
+
+state 209
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr OROR expr .   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 122 (expr)
+
+
+
+state 210
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr ANDAND expr .   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 121 (expr)
+
+
+
+state 211
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr '|' expr .   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 113 (expr)
+
+
+
+state 212
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr '^' expr .   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 114 (expr)
+
+
+
+state 213
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr '&' expr .   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 112 (expr)
+
+
+
+state 214
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr EQ expr .   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 115 (expr)
+
+
+
+state 215
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr NE expr .   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 116 (expr)
+
+
+
+state 216
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr '<' expr .   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 117 (expr)
+
+
+
+state 217
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr '>' expr .   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 118 (expr)
+
+
+
+state 218
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr LE expr .   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 120 (expr)
+
+
+
+state 219
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr GE expr .   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 119 (expr)
+
+
+
+state 220
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr RR expr .   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 110 (expr)
+
+
+
+state 221
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr LL expr .   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 111 (expr)
+
+
+
+state 222
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr '+' expr .   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 105 (expr)
+
+
+
+state 223
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr '-' expr .   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 106 (expr)
+
+
+
+state 224
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr '*' expr .   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 109 (expr)
+
+
+
+state 225
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr '/' expr .   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 107 (expr)
+
+
+
+state 226
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr '%' expr .   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 108 (expr)
+
+
+
+state 227
+
+    primary  ->  primary RA SYMBOL .   (rule 143)
+
+    $default	reduce using rule 143 (primary)
+
+
+
+state 228
+
+    primary  ->  primary '(' opexpr . ')'   (rule 140)
+
+    ')' 	shift, and go to state 259
+
+
+
+state 229
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+    primary  ->  primary '[' expr . ']'   (rule 141)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+    ']' 	shift, and go to state 260
+
+
+
+state 230
+
+    primary  ->  primary '.' SYMBOL .   (rule 144)
+
+    $default	reduce using rule 144 (primary)
+
+
+
+state 231
+
+    parameter_list  ->  parameter ',' parameter_list .   (rule 21)
+
+    $default	reduce using rule 21 (parameter_list)
+
+
+
+state 232
+
+    abstract  ->  '*' abstract .   (rule 31)
+    abstract  ->  abstract . '(' ')'   (rule 33)
+    abstract  ->  abstract . '[' cexpr ']'   (rule 35)
+
+    '(' 	shift, and go to state 236
+    '[' 	shift, and go to state 237
+
+    '(' 	[reduce using rule 31 (abstract)]
+    '[' 	[reduce using rule 31 (abstract)]
+    $default	reduce using rule 31 (abstract)
+
+
+
+state 233
+
+    abstract  ->  '(' ')' .   (rule 34)
+
+    $default	reduce using rule 34 (abstract)
+
+
+
+state 234
+
+    abstract  ->  '(' abstract . ')'   (rule 30)
+    abstract  ->  abstract . '(' ')'   (rule 33)
+    abstract  ->  abstract . '[' cexpr ']'   (rule 35)
+
+    '(' 	shift, and go to state 236
+    ')' 	shift, and go to state 261
+    '[' 	shift, and go to state 237
+
+
+
+state 235
+
+    abstract  ->  '[' cexpr . ']'   (rule 36)
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+
+    RR  	shift, and go to state 172
+    LL  	shift, and go to state 173
+    '+' 	shift, and go to state 174
+    '-' 	shift, and go to state 175
+    '*' 	shift, and go to state 176
+    '/' 	shift, and go to state 177
+    ']' 	shift, and go to state 262
+
+
+
+state 236
+
+    abstract  ->  abstract '(' . ')'   (rule 33)
+
+    ')' 	shift, and go to state 263
+
+
+
+state 237
+
+    abstract  ->  abstract '[' . cexpr ']'   (rule 35)
+
+    NUM 	shift, and go to state 82
+    '-' 	shift, and go to state 83
+    '(' 	shift, and go to state 84
+
+    cexpr	go to state 264
+
+
+
+state 238
+
+    cexpr  ->  '(' cexpr ')' .   (rule 49)
+
+    $default	reduce using rule 49 (cexpr)
+
+
+
+state 239
+
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+    cexpr  ->  cexpr RR cexpr .   (rule 47)
+
+    '+' 	shift, and go to state 174
+    '-' 	shift, and go to state 175
+    '*' 	shift, and go to state 176
+    '/' 	shift, and go to state 177
+
+    $default	reduce using rule 47 (cexpr)
+
+
+
+state 240
+
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr LL cexpr .   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+
+    '+' 	shift, and go to state 174
+    '-' 	shift, and go to state 175
+    '*' 	shift, and go to state 176
+    '/' 	shift, and go to state 177
+
+    $default	reduce using rule 46 (cexpr)
+
+
+
+state 241
+
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr '+' cexpr .   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+
+    '*' 	shift, and go to state 176
+    '/' 	shift, and go to state 177
+
+    $default	reduce using rule 42 (cexpr)
+
+
+
+state 242
+
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr '-' cexpr .   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+
+    '*' 	shift, and go to state 176
+    '/' 	shift, and go to state 177
+
+    $default	reduce using rule 43 (cexpr)
+
+
+
+state 243
+
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr '*' cexpr .   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+
+
+    $default	reduce using rule 44 (cexpr)
+
+
+
+state 244
+
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr '/' cexpr .   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+
+
+    $default	reduce using rule 45 (cexpr)
+
+
+
+state 245
+
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+    declarator_list  ->  declarator_list ',' declarator .   (rule 71)
+
+    '(' 	shift, and go to state 24
+    '[' 	shift, and go to state 25
+
+    $default	reduce using rule 71 (declarator_list)
+
+
+
+state 246
+
+    initlist  ->  initlist ',' . expr   (rule 83)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 265
+    primary	go to state 76
+
+
+
+state 247
+
+    init_declarator  ->  init_dec2 '{' initlist '}' .   (rule 80)
+
+    $default	reduce using rule 80 (init_declarator)
+
+
+
+state 248
+
+    declarator  ->  declarator . '(' parameter_list ')'   (rule 23)
+    declarator  ->  declarator . '(' ')'   (rule 24)
+    declarator  ->  declarator . '[' cexprop ']'   (rule 27)
+    struct_decl_list  ->  struct_decl_list ',' declarator .   (rule 66)
+
+    '(' 	shift, and go to state 24
+    '[' 	shift, and go to state 25
+
+    $default	reduce using rule 66 (struct_decl_list)
+
+
+
+state 249
+
+    cond  ->  '(' opexpr ')' .   (rule 101)
+
+    $default	reduce using rule 101 (cond)
+
+
+
+state 250
+
+    statement  ->  IF cond statement ELSE . statement   (rule 93)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 266
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 251
+
+    statement  ->  CASE cexpr ':' statement .   (rule 98)
+
+    $default	reduce using rule 98 (statement)
+
+
+
+state 252
+
+    statement  ->  FOR '(' opexpr ';' . opexpr ';' opexpr ')' statement   (rule 95)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    $default	reduce using rule 145 (opexpr)
+
+    sizeofobj	go to state 67
+    commaexpr	go to state 112
+    expr	go to state 75
+    primary	go to state 76
+    opexpr	go to state 267
+
+
+
+state 253
+
+    statement  ->  DO statement WHILE cond . ';'   (rule 96)
+
+    ';' 	shift, and go to state 268
+
+
+
+state 254
+
+    sizeofobj  ->  SIZEOF '(' var_type2 ')' .   (rule 38)
+
+    $default	reduce using rule 38 (sizeofobj)
+
+
+
+state 255
+
+    abstract  ->  abstract . '(' ')'   (rule 33)
+    abstract  ->  abstract . '[' cexpr ']'   (rule 35)
+    sizeofobj  ->  SIZEOF '(' type_spec abstract . ')'   (rule 37)
+
+    '(' 	shift, and go to state 236
+    ')' 	shift, and go to state 269
+    '[' 	shift, and go to state 237
+
+
+
+state 256
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+    expr  ->  '(' type_name ')' expr .   (rule 130)
+
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 130 (expr)
+
+
+
+state 257
+
+    statement  ->  switchkw '(' expr ')' . statement   (rule 97)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 270
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 258
+
+    expr  ->  expr '?' expr ':' . expr   (rule 123)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    sizeofobj	go to state 67
+    expr	go to state 271
+    primary	go to state 76
+
+
+
+state 259
+
+    primary  ->  primary '(' opexpr ')' .   (rule 140)
+
+    $default	reduce using rule 140 (primary)
+
+
+
+state 260
+
+    primary  ->  primary '[' expr ']' .   (rule 141)
+
+    $default	reduce using rule 141 (primary)
+
+
+
+state 261
+
+    abstract  ->  '(' abstract ')' .   (rule 30)
+
+    $default	reduce using rule 30 (abstract)
+
+
+
+state 262
+
+    abstract  ->  '[' cexpr ']' .   (rule 36)
+
+    $default	reduce using rule 36 (abstract)
+
+
+
+state 263
+
+    abstract  ->  abstract '(' ')' .   (rule 33)
+
+    $default	reduce using rule 33 (abstract)
+
+
+
+state 264
+
+    abstract  ->  abstract '[' cexpr . ']'   (rule 35)
+    cexpr  ->  cexpr . '+' cexpr   (rule 42)
+    cexpr  ->  cexpr . '-' cexpr   (rule 43)
+    cexpr  ->  cexpr . '*' cexpr   (rule 44)
+    cexpr  ->  cexpr . '/' cexpr   (rule 45)
+    cexpr  ->  cexpr . LL cexpr   (rule 46)
+    cexpr  ->  cexpr . RR cexpr   (rule 47)
+
+    RR  	shift, and go to state 172
+    LL  	shift, and go to state 173
+    '+' 	shift, and go to state 174
+    '-' 	shift, and go to state 175
+    '*' 	shift, and go to state 176
+    '/' 	shift, and go to state 177
+    ']' 	shift, and go to state 272
+
+
+
+state 265
+
+    initlist  ->  initlist ',' expr .   (rule 83)
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    '=' 	shift, and go to state 135
+    DEFOP	shift, and go to state 136
+    '?' 	shift, and go to state 137
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 83 (initlist)
+
+
+
+state 266
+
+    statement  ->  IF cond statement ELSE statement .   (rule 93)
+
+    $default	reduce using rule 93 (statement)
+
+
+
+state 267
+
+    statement  ->  FOR '(' opexpr ';' opexpr . ';' opexpr ')' statement   (rule 95)
+
+    ';' 	shift, and go to state 273
+
+
+
+state 268
+
+    statement  ->  DO statement WHILE cond ';' .   (rule 96)
+
+    $default	reduce using rule 96 (statement)
+
+
+
+state 269
+
+    sizeofobj  ->  SIZEOF '(' type_spec abstract ')' .   (rule 37)
+
+    $default	reduce using rule 37 (sizeofobj)
+
+
+
+state 270
+
+    statement  ->  switchkw '(' expr ')' statement .   (rule 97)
+
+    $default	reduce using rule 97 (statement)
+
+
+
+state 271
+
+    expr  ->  expr . '+' expr   (rule 105)
+    expr  ->  expr . '-' expr   (rule 106)
+    expr  ->  expr . '/' expr   (rule 107)
+    expr  ->  expr . '%' expr   (rule 108)
+    expr  ->  expr . '*' expr   (rule 109)
+    expr  ->  expr . RR expr   (rule 110)
+    expr  ->  expr . LL expr   (rule 111)
+    expr  ->  expr . '&' expr   (rule 112)
+    expr  ->  expr . '|' expr   (rule 113)
+    expr  ->  expr . '^' expr   (rule 114)
+    expr  ->  expr . EQ expr   (rule 115)
+    expr  ->  expr . NE expr   (rule 116)
+    expr  ->  expr . '<' expr   (rule 117)
+    expr  ->  expr . '>' expr   (rule 118)
+    expr  ->  expr . GE expr   (rule 119)
+    expr  ->  expr . LE expr   (rule 120)
+    expr  ->  expr . ANDAND expr   (rule 121)
+    expr  ->  expr . OROR expr   (rule 122)
+    expr  ->  expr . '?' expr ':' expr   (rule 123)
+    expr  ->  expr '?' expr ':' expr .   (rule 123)
+    expr  ->  expr . DEFOP expr   (rule 124)
+    expr  ->  expr . '=' expr   (rule 125)
+    expr  ->  expr . PLPL   (rule 127)
+    expr  ->  expr . MIMI   (rule 129)
+
+    OROR	shift, and go to state 138
+    ANDAND	shift, and go to state 139
+    '|' 	shift, and go to state 140
+    '^' 	shift, and go to state 141
+    '&' 	shift, and go to state 142
+    EQ  	shift, and go to state 143
+    NE  	shift, and go to state 144
+    '<' 	shift, and go to state 145
+    '>' 	shift, and go to state 146
+    LE  	shift, and go to state 147
+    GE  	shift, and go to state 148
+    RR  	shift, and go to state 149
+    LL  	shift, and go to state 150
+    '+' 	shift, and go to state 151
+    '-' 	shift, and go to state 152
+    '*' 	shift, and go to state 153
+    '/' 	shift, and go to state 154
+    '%' 	shift, and go to state 155
+    PLPL	shift, and go to state 156
+    MIMI	shift, and go to state 157
+
+    $default	reduce using rule 123 (expr)
+
+
+
+state 272
+
+    abstract  ->  abstract '[' cexpr ']' .   (rule 35)
+
+    $default	reduce using rule 35 (abstract)
+
+
+
+state 273
+
+    statement  ->  FOR '(' opexpr ';' opexpr ';' . opexpr ')' statement   (rule 95)
+
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 94
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '(' 	shift, and go to state 63
+    '!' 	shift, and go to state 65
+
+    $default	reduce using rule 145 (opexpr)
+
+    sizeofobj	go to state 67
+    commaexpr	go to state 112
+    expr	go to state 75
+    primary	go to state 76
+    opexpr	go to state 274
+
+
+
+state 274
+
+    statement  ->  FOR '(' opexpr ';' opexpr ';' opexpr . ')' statement   (rule 95)
+
+    ')' 	shift, and go to state 275
+
+
+
+state 275
+
+    statement  ->  FOR '(' opexpr ';' opexpr ';' opexpr ')' . statement   (rule 95)
+
+    IF  	shift, and go to state 41
+    SWITCH	shift, and go to state 42
+    CASE	shift, and go to state 43
+    BREAK	shift, and go to state 44
+    FOR 	shift, and go to state 45
+    WHILE	shift, and go to state 46
+    DO  	shift, and go to state 47
+    CONTINUE	shift, and go to state 48
+    DEFAULT	shift, and go to state 49
+    GOTO	shift, and go to state 50
+    RETURN	shift, and go to state 51
+    NUM 	shift, and go to state 52
+    SYMBOL	shift, and go to state 53
+    STRING	shift, and go to state 54
+    '&' 	shift, and go to state 55
+    '-' 	shift, and go to state 56
+    '*' 	shift, and go to state 57
+    '~' 	shift, and go to state 58
+    PLPL	shift, and go to state 59
+    MIMI	shift, and go to state 60
+    SIZEOF	shift, and go to state 61
+    '{' 	shift, and go to state 22
+    '(' 	shift, and go to state 63
+    ';' 	shift, and go to state 64
+    '!' 	shift, and go to state 65
+
+    compound	go to state 66
+    sizeofobj	go to state 67
+    statement	go to state 276
+    switchkw	go to state 73
+    commaexpr	go to state 74
+    expr	go to state 75
+    primary	go to state 76
+
+
+
+state 276
+
+    statement  ->  FOR '(' opexpr ';' opexpr ';' opexpr ')' statement .   (rule 95)
+
+    $default	reduce using rule 95 (statement)
+
+
+
+state 277
+
+    $   	shift, and go to state 278
+
+
+
+state 278
+
+    $   	shift, and go to state 279
+
+
+
+state 279
+
+    NO ACTIONS

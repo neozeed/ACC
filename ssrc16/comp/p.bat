@@ -1,0 +1,1 @@
+bison parse.y -o parse.c -vl

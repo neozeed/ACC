@@ -1,0 +1,173 @@
+printf(char *format_string, ...);
+fprintf(int file, char *format_string, ...);
+sprintf(char *output, char *format_string, ...);
+-- See K&R. No floating point support.
+%s = string
+%d, %ld = decimal int and long int
+%u, %lu = decimal unsigned int and long int
+%x, %lx = hex and long hex
+%.#<format letters> = limit to # of characters.
+\t = tab
+\n = newline ($0a)
+%#<format letters> = pad out to # of characters, on left side, using ' '
+%0#<format letters> = pad out to # of characters, on left side, using '0'
+%-#, %-0# = pad on right side instead.
+
+puts(char *str);
+  print out a string
+putchar(char ch)
+  print out a character
+putc(char ch, int file)
+  Write a character to a file.
+
+
+char *malloc(unsigned int numbytes);
+char *mallocl(long numbytes);
+char *lalloc(unsigned int numbytes);
+free(char *mem);
+
+malloc and mallocl allocate from EXTENDED memory, never from the first
+1 megabyte. lalloc allocates from low memory. You MUST free your own
+extended memory with free. Memory allocated with lalloc doesn't need to
+be freed, but it's a good practice anyway. Allocate big blocks with
+malloc and mallocl, then subdivide them on your own. Those functions are
+pretty slow because they depend on the OS. Return 0 if not enough mem
+available.
+
+
+strcpy(char *to, char *from);
+   copy a string up to and including 0 byte.
+strcat(char *to, char *from);
+   appends one string onto another up to and including 0 byte.
+long strlen(char *string);
+   return # of characters in string until 0 byte.
+int strcmp(char *str1, char *str2);
+   returns 0 if str1==str2, <0 if str1<str2, and >0 if str1>str2
+strncpy(char *str1, char *str2, int len);
+   Copy until 0 byte or len bytes have been copied.
+strncmp(char *str1, char *str2, int len);
+   Compare strings until zero byte or until len bytes have been compared.
+int toupper(int ch)
+   Converts lowercase to uppercase. All others unchanged.
+int tolower(int ch)
+   Converts uppercase to lowercase. All others unchanged.
+int isdigit(int ch)
+   If ch>='0' && ch<='9' return nonzero, otherwise return 0
+int isalpha(int ch)
+   if ch is a letter (upper or lower), return nonzero, otherwise return 0.
+int isalnum(int ch)
+   if ch is letter or digit, return nonzero, otherwise return 0.
+
+clearmem(char *loc, int len)
+  clears memory
+
+bcopy(char *from, char *to, unsigned int numbytes)
+bcopyl(char *from, char *to, long numbytes)
+  Copy numbytes bytes. The bytes are copied from the start to the end.
+  For overlapping blocks, this will work fine if the destination is
+  less than the source.
+fcopy(char *from, char *to, unsigned int numbytes)
+fcopyl(char *from, char *to, long numbytes)
+  Copy numbytes bytes. The bytes are copied from the end to the start.
+  For overlapping blocks, this will work fine if the destination is
+  greater than the source.
+  The block move routines are very fast, they first copy as many longs as
+  possible, then copy the remaining 0-3 bytes. They handle the case were
+  zero bytes are being copied--they do nothing in that case.
+
+int fopen(char *name, char *mode);
+  Tries to open file with access. mode=="r" means read, mode=="w" means create
+  file for writing.
+fclose(int file);
+  Closes file opened with fopen. When program exits the OS closes all open
+  files.
+long read(int file, char *loc, unsigned int len);
+long readl(int file, char *loc, long len);
+  Read bytes from file into location loc. Returns actual # of bytes read.
+  if len==0 do nothing. loc can be anywhere in memory.
+long write(int file, char *loc, unsigned int len);
+long writel(int file, char *loc, long len);
+  Write bytes to file from location loc. Returns actual # of bytes written.
+  if len==0 do nothing. loc can be anywhere in memory.
+rewind(int file);
+  Move file pointer back to start of file.
+long lseek(int file, long offset, int type);
+   Move the file pointer somewhere in the file. Return the file pointer's
+   offset from the start of the file. type==0 for relative to start,
+   type==1 for relative to current location, type==2 for relative to end.
+int unlink(char *name);
+   Deletes a file. Returns 0 if successful, 2 if file not found, 3 if path
+   not found, 5 if access denied (cannot delete a directory, volume label,
+   or read-only file)
+
+
+
+int rand()
+   Returns random number.
+
+int hash8(char *str)
+   returns a hash value in the range 0 to 255 for the string.
+
+long atoi(char *str)
+   returns numeric value of all sequential decimal digits.
+
+long revlong(long val)
+   returns the value with the bytes reversed.
+short revword(short val)
+   returns the value with the bytes reversed.
+
+char *findenv(char *str)
+   Searches the environment space for the variable. Returns 0 if no match
+   found, or a pointer to the definition. So in the case where
+   PATH=C:\dos;r:\
+   findenv("path") would return a pointer to "c:\dos\r:\".
+   Not case sensitive.
+
+int cchit()
+   Returns nonzero if control break is hit, or if control-c is hit and DOS
+   recognizes it.
+
+qsort(void *block, int numitems, int itemsize, int (*compare)(void *item1, void *item2));
+   Does a quicksort. Block points to a block of data to sort. numitems is the
+   number of individual items. itemsize is the size of a single item. compare
+   is a function that is called with 2 pointers as arguments. It is supposed
+   to return 0 if the items are equal, <0 if the first is less than the
+   second, or >0 if the first is greater than the second. This is a very
+   fast sort routine. It has been optomized for byte, word and long size
+   items especially. Handles cases where numitems==0 or 1.
+
+int kr()
+   Returns nonzero if there is a key ready.
+int rci()
+   Waits for a keypress. Returns upper 8 bits = keycode, lower 8 bits = ascii.
+int rqual()
+   Returns qualifiers for the key hit, like shift, control, alt, etc.
+
+long getdate()
+   Returns:  B3 B2 B1 B0   B0=LSB, B3=MSB
+    B3=year-1980, B2=month (1-12),
+    B1=day of month (1-31), B0=day of week (0=sun,1-mon...)
+
+long gettime()
+   Returns:  B3 B2 B1 B0   B0=LSB, B3=MSB
+    B3=Hour (0-23), B2=Minute (0-59),B1=Second (0-59),B0=Hundreths (0-99)
+
+curpos(int row, int column)
+   Move the blinking cursor.
+
+int getcurpos()
+   Returns B1 B0  B0=LSB, B1=MSB
+   B1=rot, B0=column
+
+int getseg()
+   Returns B1 B0  B0=LSB, B1=MSB
+   B1=# of columns of text mode
+   B0=VGA video mode
+
+int86(struct REGS *regs, int interruptnum);
+  #include the <regs.h> file.
+  Does a real mode interrupt, fills in the REGS structure with the
+  return values.
+
+randomize()
+  Randomizes the seed based on the system clock.

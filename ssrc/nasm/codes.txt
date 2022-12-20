@@ -1,0 +1,289 @@
+al=0	ax=0
+cl=1	cx=1
+dl=2	dx=2
+bl=3	bx=3
+ah=4	sp=4
+ch=5	bp=5
+dh=6	si=6
+bh=7	di=7
+
+$26	es override
+$2e	cs override
+$36	ss override
+$3e	ds override
+
+ea:
+	76543210
+
+	76=00 no offset
+	  =01 8 bit offset
+	  =10 16 bit offset
+	  =11 register, defined by bits 210
+
+	210=000 [bx+si]
+	   =001 [bx+di]
+	   =010 [bp+si]
+	   =011 [bp+di]
+	   =100 [si]
+	   =101 [di]
+	   =110 [abs 16] if 76=00, else [bp]
+	   =111 [bx]
+
+	543=reg # for operand, or operation # (and,or,adc,sbb,and,sub,xor,cmp)
+
+00 <ea>	add	ea,r8
+01 <ea>	add	ea,r16
+02 <ea>	add	r8,ea
+03 <ea>	add	r16,ea
+04 <d8>	add	al,d8
+05 <d16>	add	ax,d16
+06	push	es
+07	pop	es
+08 <ea>	or	ea,r8
+09 <ea>	or	ea,r16
+0a <ea>	or	r8,ea
+0b <ea>	or	r16,ea
+0c <d8>	or	al,d8
+0d <d16>	or	ax,d16
+0e	push	cs
+0f	---
+10 <ea>	adc	ea,r8
+11 <ea>	adc	ea,r16
+12 <ea>	adc	r8,ea
+13 <ea>	adc	r16,ea
+14 <d8>	adc	al,d8
+15 <d16>	adc	ax,d16
+16	push	ss
+17	pop	ss
+18 <ea>	sbb	ea,r8
+19 <ea>	sbb	ea,r16
+1a <ea>	sbb	r8,ea
+1b <ea>	sbb	r16,ea
+1c <d8>	sbb	al,d8
+1d <d16>	sbb	ax,d16
+1e	push	ds
+1f	pop	ds
+20 <ea>	and	ea,r8
+21 <ea>	and	ea,e16
+22 <ea>	and	r8,ea
+23 <ea>	and	r16,ea
+24 <d8>	and	al,d8
+25 <d16>	and	ax,d16
+26  ES OVERRIDE
+27	daa
+28 <ea>	sub	ea,r8
+29 <ea>	sub	ea,r16
+2a <ea>	sub	r8,ea
+2b <ea>	sub	r16,ea
+2c <d8>	sub	al,d8
+2d <d16>	sub	ax,d16
+2e  CS OVERRIDE
+2f	das
+30 <ea>	xor	ea,r8
+31 <ea>	xor	ea,r16
+32 <ea>	xor	r8,ea
+33 <ea>	xor	r16,ea
+34 <d8>	xor	al,d8
+35 <d16>	xor	ax,d16
+36  SS OVERRIDE
+37	aaa
+38 <ea>	cmp	ea,r8
+39 <ea>	cmp	ea,r16
+3a <ea>	cmp	r8,ea
+3b <ea>	cmp	r16,ea
+3c <d8>	cmp	al,d8
+3d <d16>	cmp	ax,d16
+3e  DS OVERRIDE
+3f	aas
+40	inc	ax
+41	inc	cx
+42	inc	dx
+43	inc	bx
+44	inc	sp
+45	inc	bp
+46	inc	si
+47	inc	di
+48	dec	ax
+49	dec	cx
+4a	dec	dx
+4b	dec	bx
+4c	dec	sp
+4d	dec	bp
+4e	dec	si
+4f	dec	di
+50	push	ax
+51	push	cx
+52	push	dx
+53	push	bx
+54	push	sp
+55	push	bp
+56	push	si
+57	push	di
+58	pop	ax
+59	pop	cx
+5a	pop	dx
+5b	pop	bx
+5c	pop	sp
+5d	pop	bp
+5e	pop	si
+5f	pop	di
+60	---
+61	---
+62	---
+63	---
+64	---
+65	---
+66	---
+67	---
+68	---
+69	---
+6a	---
+6b	---
+6c	---
+6d	---
+6e	---
+6f	---
+70 <rel8>	jo	rel8
+71 <rel8>	jno	rel8
+72 <rel8>	jb,jc,jnae	rel8
+73 <rel8>	jae,jnb,jnc	rel8
+74 <rel8>	je,jz	rel8
+75 <rel8>	jng,jnz	rel8
+76 <rel8>	jbe,jna	rel8
+77 <rel8>	ja,jnbe	rel8
+78 <rel8>	js	rel8
+79 <rel8>	jns	rel8
+7a <rel8>	jp,jpe	rel8
+7b <rel8>	jnle,jnp,jpo	rel8
+7c <rel8>	jl,jnge	rel8
+7d <rel8>	jge,jnl	rel8
+7e <rel8>	jle,jng	rel8
+7f <rel8>	jg,jnle	rel8
+80 <ea> <d8>	op	ea,d8	;op defined by ea bits 543, 8 bit operation
+81 <ea> <d16>	op	ea,d16	;op defined by ea bits 543, 16 bit operation
+82 <ea> <d8>	op	ea,d8	;op defined by ea bits 543, 8 bit operation
+83 <ea> <d8>	op	ea,d16	;op defined by ea bits 543, 16 bit operation
+84 <ea>	test	r8,ea
+85 <ea>	test	r16,ea
+86 <ea>	xchg	r8,ea
+87 <ea>	xchg	r16,ea
+88 <ea>	mov	ea,r8
+89 <ea>	mov	ea,r16
+8a <ea>	mov	r8,ea
+8b <ea>	mov	r16,ea
+8c <ea>	mov	xs,ea ;ea 543:x00=es,x01=cs,x10=ss,x11=ds
+8d <ea>	lea	r16,ea
+8e <ea>	mov	ea,xs ;ea 543:x00=es,x01=cs,x10=ss,x11=ds
+8f <ea>	pop	ea
+90	nop
+91	xchg	ax,cx
+92	xchg	ax,dx
+93	xchg	ax,bx
+94	xchg	ax,sp
+95	xchg	ax,bp
+96	xchg	ax,si
+97	xchg	ax,di
+98	cbw
+99	cwd
+9a <d32>	call	seg:offset
+9b	wait
+9c	pushf
+9d	popf
+9e	sahf
+9f	lahf
+a0 <abs16>	mov	al,[abs16]
+a1 <abs16>	mov	ax,[abs16]
+a2 <abs16>	mov	[abs16],al
+a3 <abs16>	mov	[abs16],ax
+a4	movsb
+a5	movsw
+a6	cmpsb
+a7	cmpsw
+a8 <d8>	test	al,d8
+a9 <d16>	test	ax,d16
+aa	stosb
+ab	stosw
+ac	lodsb
+ad	lodsw
+ae	scasb
+af	scasw
+b0 <d8>	mov	al,d8
+b1 <d8>	mov	cl,d8
+b2 <d8>	mov	dl,d8
+b3 <d8>	mov	bl,d8
+b4 <d8>	mov	ah,d8
+b5 <d8>	mov	ch,d8
+b6 <d8>	mov	dh,d8
+b7 <d8>	mov	bh,d8
+b8 <d16>	mov	ax,d16
+b9 <d16>	mov	cx,d16
+ba <d16>	mov	dx,d16
+bb <d16>	mov	bx,d16
+bc <d16>	mov	sp,d16
+bd <d16>	mov	bp,d16
+be <d16>	mov	si,d16
+bf <d16>	mov	di,d16
+c0	---
+c1	---
+c2 <d16>	ret	d16
+c3	ret
+c4 <ea>	les	r16,ea
+c5 <ea>	lds	r16,ea
+c6 <ea> <d8>	mov	ea,d8
+c7 <ea> <d16>	mov	ea,d16
+c8	---
+c9	---
+ca <d16>	retf	d16
+cb	retf
+cc	int	3
+cd <d8>	int	d8
+ce	into
+cf	iret
+d0 <ea>	rcl	ea,1 ;size=byte
+d1 <ea>	rcl	ea,1 ;size=word
+d2 <ea>	rcl	ea,cl ;size=byte
+d3 <ea>	rcl	ea,cl ;size=word
+d4 <d8>	aam	d8
+d5 <d8>	aad	d8
+d6	---
+d7	xlat
+d8 <ea>	fcom	ea ;size=dword
+d9 <ea>	fst	ea ;size=dword
+da <ea>	ficom	ea ;size=dword
+db <ea>	fist	ea ;size=dword
+dc <ea>	fcom	ea ;size=qword
+dd <ea>	fst	ea ;size=qword
+de <ea>	ficom	ea ;size=word
+df <ea>	fist	ea ;size=word
+e0 <rel8>	loopnz	rel8
+e1 <rel8>	loopz	rel8
+e2 <rel8>	loop	rel8
+e3 <rel8>	jcxz	rel8
+e4 <d8>	in	al,d8
+e5 <d8>	in	ax,d8
+e6 <d8>	out	d8,al
+e7 <d8>	out	d8,ax
+e8 <abs16>	call	abs16
+e9 <abs16>	jmp	abs16
+ea <d32>	jmp	seg:offset
+eb <rel8>	jmp	rel8
+ec	in	al,dx
+ed	in	ax,dx
+ee	out	dx,al
+ef	out	dx,ax
+f0	lock
+f1	---
+f2	repnz
+f3	repz
+f4	hlt
+f5	cmc
+f6 <ea>	op	byte ea ;ea 543:000=test (& extra d8 follows),001=---,010=not,011=neg,100=mul,101=imul,110=div,111=idiv
+f7 <ea>	op	word ea ;ea 543:000=test (& extra d16 follows),001=---,010=not,011=neg,100=mul,101=imul,110=div,111=idiv
+f8	clc
+f9	stc
+fa	cli
+fb	sti
+fc	cld
+fd	std
+fe <ea>	op	byte ea ;ea 543:000=inc,001=dec,010=call,011=call far,100=jmp,101=jmp far,110=push,111=---
+ff <ea>	op	word ea ;ea 543:000=inc,001=dec,010=call,011=call far,100=jmp,101=jmp far,110=push,111=---

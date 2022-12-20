@@ -1,0 +1,8 @@
+acc4.exe: comp.o parse.o start.o lib.o acc3.exe
+	acc3 parse
+	a86 parse
+	acc3 comp
+	a86 comp
+	link -h start lib parse comp
+	copy comp.exe acc4.exe
+

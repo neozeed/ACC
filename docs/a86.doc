@@ -1,0 +1,263 @@
+********************   A86   ********************
+80386 instruction set assembler
+
+USE:
+a86 <filename> <options>
+
+<filename>.a is the input file. ".a" gets added by a86.
+
+<options>
+l	create listing file
+o	Do not create .o file
+u	print out usage information
+b	Produce binary .COM output, [Be careful about external references!]
+s	Include symbol table info (doesn't do anything)
+e	Create errorfile <filename>.err for errors.
+
+Example:
+a86 t l
+---> assemble file "t.a" to file "t.o", produce listing file "t.l".
+
+---If you know TASM, here are the differences:---
+o Hex numbers begin with '$' instead of ending with 'h'.
+
+o Use "long" instead of "dword". So:
+   var: dd 0
+        mov long var,0
+
+o Do not use "ptr" at all. Example:
+  TASM syntax:
+   mov al, byte ptr [esi]
+  A86 syntax:
+   mov al,byte [esi]  (or just mov al,[esi], since the size is known)
+
+o For register indirect, the register has to be inside the [] always. To
+  include an offset, the offset has to be inside the [] also, and after the
+  register(s). So:
+  table:  ds.b  1024
+          mov   eax,[esi+eax*4+table]
+  NOT:    mov   eax,table[esi+eax*4] <---BAD
+
+o '*' means "here", not '$'
+
+o The assembler doesn't maintain size information for storage areas.
+  You've got to use the "byte", "word" and "long" keywords whenever
+  there is ambiguity. Example:
+  Tasm can handle:
+  iplen  db   0
+         movzx eax,iplen
+  buy for a86 you have to do
+         movzx eax,byte iplen
+
+o (?) and "dup" do not work.
+
+o There are no segments at all. The "segment" directive doesn't exist.
+  Instead, there are use16 and use32 directives.
+
+o The EXE file produced never contains relocation entries in the
+  header.
+
+o There is no "assume" directive.
+
+o The short form of branches is only used if "short" appears in the
+  operand field. TASM sometimes optomizes on its own, but A86 never does.
+
+o "far" doesn't work. Instead use "fcall" and "fjmp" opcodes. Both
+  imply a segment change.
+
+o There is no "fword". Instead use fcall and fjmp with word and long
+  to specify seg:offset16 and seg:offset32. Example:
+  TASM:   call fword [there]
+  A86:    fcall long [there]
+
+o You can push immediate values and specify the size:
+  push word 40
+  Without a specifier the size follows whatever the default size is
+  (use16 or use32).
+
+o CASE SENSITIVE always
+
+o Register names must be in lower case.
+
+o There is no [bp] or [ebp] addressing mode. You've got to have
+  [bp+0] or [ebp+0].
+
+o There is no "extrn" directive. Use "public" for both external and
+  internal labels. You can't specify the size or near/far like you
+  can in TASM, as in    extrn  func:near, longval:dword
+
+o You can push and pop multiple arguments, and arguments can be
+  registers or memory references.
+
+---------------------------------------
+If you don't know TASM, then you should compile some C programs and
+look at the .A file generated. Unlike 68000, the x86 uses:
+  <opcode>  <destination>,<source>
+For instructions with two operands.
+
+---------------------------------------
+
+--- use16 AND use32 directives ---
+
+use16 makes the assembler think the default operand size is word.
+use32 makes the assembler think the default operand size is long.
+*** The assembler starts out in use32 mode. ***
+
+This has to do with the $66 prefix byte and the size of operands.
+If you're writing a 16 bit real mode interrupt handler, start out
+with use16.
+
+The use16 and use32 are kind of like the segment directive in
+TASM:
+code32  segment para public use32
+
+The "equivalent" would be just "use32" for A86.
+
+Remember that for real mode and V86 mode, the cpu is running in 16
+bits. So code for that should start with use16. And for protected
+32 bit mode, everything is 32 bits, so you should preface code with
+use32.
+--------------------------------------
+
+Look at the _start.a file in the examples directory.
+This is Tran's pmode307 header modified to use a86 syntax, and with
+the TASM segment crap removed.
+
+---------------------------------------
+USING ASSEMBLER CODE WITHIN THE CONTEXT OF ACC
+
+Inside a c program you have
+#asm
+... asm code
+#endasm
+
+The compiler passes it through unchanged to the assembler source output.
+You can use any registers you want, but you must preserve EBP, and of
+course if you mess with the stack any you've got to undo whatever you did.
+The compiler adds '_' to the beginning of all names, so main would appear
+as
+_main:
+
+Arguments are passed to functions pushed on the stack from the right
+to the left, so the leftmost is highest on the stack. On entry to
+a function, the first longword on the stack is the return address.
+Then there are any arguments. Char arguments are pushed as words.
+The first passed argument is at [esp+4].
+
+C functions with passed arguments or local variables begin with
+_func:  push ebp
+        mov ebp,esp
+        sub esp,#
+
+and end with
+        mov esp,ebp
+        pop ebp
+        ret
+With this method, the passed and local variables are available as
+positive and negative offsets off of ebp. The first passed variable
+is at [ebp+8].
+
+The return value is passed in eax, ax or al, depending on the size.
+If you want the ASM function to be seen by other modules, use the
+"public" directive. Note that in a module if there is a C call to
+a function you have inside #asm and #endasm, the compiler itself will
+put in a "public" for the name. Multiple "public" declarations are ok.
+
+Remember: you can use any registers except ebp as scratch, and you don't
+have to preserve their contents. The compiler doesn't generate code to
+use esi or edi at all. Library functions are all written in 386 asm,
+and make use of all the registers.
+
+
+ADDRESSING MODES:
+16 bit:
+[bx+si]
+[bx+di]
+[bp+si]
+[bp+di]
+[si]
+[di]
+disp16
+[bx]
+[bx+si+disp8]
+[bx+di+disp8]
+[bp+si+disp8]
+[bp+di+disp8]
+[si+disp8]
+[di+disp8]
+[bp+disp8]
+[bx+disp8]
+[bx+si+disp16]
+[bx+di+disp16]
+[bp+si+disp16]
+[bp+di+disp16]
+[si+disp16]
+[di+disp16]
+[bp+disp16]
+[bx+disp16]
+
+32 bit:
+[eax]
+[ecx]
+[edx]
+[ebx]
+[BASE+INDEX]
+disp32
+[esi]
+[edi]
+[eax+disp8]
+[ecx+disp8]
+[edx+disp8]
+[ebx+disp8]
+[BASE+INDEX+disp8]
+[ebp+disp8]
+[esi+disp8]
+[edi+disp8]
+[eax+disp32]
+[ecx+disp32]
+[edx+disp32]
+[ebx+disp32]
+[BASE+INDEX+disp32]
+[ebp+disp32]
+[esi+disp32]
+[edi+disp32]
+
+BASE:
+eax
+ecx
+edx
+ebx
+esp
+ebp
+esi
+edi
+
+INDEX:
+eax
+ecx
+edx
+ebx
+ebp
+esi
+edi
+eax*2
+ecx*2
+ecx*2
+ebx*2
+ebp*2
+esi*2
+edi*2
+eax*4
+ecx*4
+edx*4
+ebx*4
+ebp*4
+esi*4
+edi*4
+eax*8
+ecx*8
+edx*8
+ebx*8
+ebp*8
+esi*8
+edi*8

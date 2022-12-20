@@ -1,0 +1,270 @@
+********************   ACC   ********************
+Protected mode DOS c compiler for 386+
+
+USE:
+acc <inputfilename> [-o<outputfilename>]
+
+"<inputfilename>.c" is the input file. If no output is specified,
+the output file will be "<inputfilename>.a". Otherwise it is
+"<outputfilename>.a".
+
+NOTES:
+
+o The compiler predefines _ACC_ for use with conditional compilation:
+
+#ifdef _ACC_
+...
+#endif
+
+o There is NO FLOATING POINT in this version. Sorry--
+
+o short & int are 16 bits, long is 32 bits, char is 8 bits. All char
+  variables are unsigned. Pointers are 32 bits, and do not contain any
+  segment information. They represent an absolute 32 bit offset from the
+  start of the program's code/data segment.
+
+o The program + data are loaded into low memory. Access to memory above
+  1 megabyte is done with the malloc(int) and mallocl(long) functions.
+  The stack is located in low memory, and is set to 32K in _start.a.
+
+o All modules are part of the same segment/descriptor. Calls from one
+  function to another are always near 32. The compiler never generates
+  far calls or jumps.
+
+o Pointers are not relative to absolute zero. They are relative to the
+  start of the code segment/descriptor. If you want to access an
+  absolute memory location, you've got to subtract out the absolute offset of
+  the code segment/descriptor. At the start of the code segment
+  (see _start.a) is a structure of longs that gives useful information
+  about the environment. From the point of view of the C program, these
+  longs are located right around location zero. The longword at location
+  4 (in the code segment) is the offset to _main, where execution begins
+  after the pmode header has set everything up. The longword at 8 is
+  the absolute address of the code segment itself, relative to absolute
+  zero. The pointer at 12 is the base of free low memory, relative to the
+  code segment. The longword at 16 is the length of free low memory.
+  The longword at 20 points to a 4096 byte block of free low storage used
+  by various library utilities as temporary storage. For example, the write
+  and read functions copy to and from this before and after calling the
+  DOS functions. DOS can only see the first 1 megabyte, so the low buffer
+  is necessary for interfacing to DOS.
+
+o For example if you want to write to the video ram at location
+  $b800:$0000 (absolute address $b8000), you have to create a pointer by
+  subtracting the longword at location 8 to the desired address:
+  long *code32a=8;
+  main()
+  {
+  short *p;
+  int i;
+     p=0xb8000L-*code32a;
+     for(i=0;i<500;i++) p[i]=0x72a;
+  }
+
+o You can access free low memory yourself without using the lalloc(int)
+  function by using the pointer at longword 12 and the length at longword
+  16, but then don't use lalloc() at all because the memory list will
+  have been corrupted.
+
+o The compiler doesn't do type checking of arguments to function calls.
+
+o The assembler version of a name has '_' at the start. So: main() in C
+  becomes _main: in asm.
+
+o No c++ whatsoever. You can't even use the // comment introducer.
+
+o "sizeof <expr>" or "sizeof(expr)" do not work--as in
+  "int a,b;  b=sizeof a;". You have to do "sizeof(int)".
+
+o In "#if <expr>", the expression cannot make use of the MACRO preprocessor
+  feature of C. You cannot do:
+  #define NEG(x) (-(x))
+  #if NEG(4)==4
+  But you CAN do
+  #define WIDTH 80
+  #if WIDTH>=80
+
+o Complicated variable initialization for extern variables won't work. For
+  example, you can't do:
+  char zzz[]="This is a string";
+  long k5;
+  char *pnt=zzz;    -OR- char *pnt=&k5;
+  Also nested {} for array initialization won't work. There can be just 1
+  level of {}, and entries get placed into arrays in the order given.
+
+o Keywords "static", "register" and "auto" are pretty much ignored.
+
+o #pragma ---I have no idea what this means or is supposed to do, so it's
+  not implemented.
+
+o Bitfields are not supported. (That's the : stuff in structures).
+
+o Inline asm begins with #asm, and ends with #endasm. It only works
+  properly OUTSIDE of a function definition. If you use it inside,
+  the ASM code won't appear where you expect it to. Use "public" to
+  make ASM function names accessable outside the current module. Don't
+  forget to add the '_' at the beginning of names. Inline ASM code must
+  preserve EBP, but all other registers are scratch. Return values are
+  passed in EAX, AX or AL, depending on size.
+
+o Complicated expressions might cause the compiler to run out of 386
+  registers. The compiler only uses eax, edx, ebx and ecx. If an
+  expression is complicated enough that it runs out, it prints out a
+  message like "alloc register failure". I've never seen this myself.
+  The solution would be to break up an expression into pieces with
+  temp variables.
+
+o typedef'd names cannot be used as variable names. Example:
+  typedef int distance;
+  int distance;  ---won't work---
+  Regardless of context, a typedef'd name overrides all other items
+  of the same name, even structure names and member names.
+
+o Structure names and names of members do not conflict with variable
+  names. Inside functions you can reuse names of external identifiers.
+  The local one replaces the external one for the duration of the function.
+
+o Inside a block {} you can declare variables, but they stay around until
+  the end of the entire function. They do not vanish at the end of the
+  block.
+
+o Arguments to functions can be declared K&R or ansi style, or in combination:
+  main(int argc, char **argv) <=> main(argc,argv) int argc;char **argv;
+
+o switch statements, for(), while(), do..while() can all nest, to 64
+  levels. A switch statement can have up to 10,000 case statements.
+  while() is shorthand for while(1). It's more portable to use the for(;;)
+  though.
+
+o goto statements can be forward references, but if there is no matching
+  label, the error won't be found out until the A86 stage.
+
+o All external variables and arrays become part of the code block. Example:
+  char iobuff[16000];
+  This would actually be a block if 16,000 zero bytes in the code. It's better
+  to make programs smaller by doing:
+  char *iobuff=0;
+  then in main() do a
+  iobuff=lalloc(16000);
+  if(!iobuff) {printf("No memory!\n");return;}
+
+o There is quite a bit of overhead to doing malloc() and mallocl(). There
+  also may be a minimum allocation. For example doing a malloc(6) might
+  actually give you a pointer to 4096 bytes of free storage. Use malloc and
+  mallocl for getting large blocks, then subdivide them yourself. lalloc
+  is used for getting low memory before the first 1 megabyte, and it is
+  fast, and the overhead is just an extra 16 bytes, and the length asked
+  for is rounded up to the next higher multiple of 16. So lalloc(5) will
+  give you a pointer to 16 bytes, but will actually use up 32. If you are
+  going to be doing lots of small alloc's and free's, use the lalloc
+  function and live with the 460+K limit of low memory. All pointers returned
+  are at least paragraph aligned for the three allocation functions.
+
+o malloc(int) and mallocl(long) permanently allocate memory from the system.
+  You must free() the memory yourself before your program exits, otherwise
+  the memory is gone until you reboot the machine. lalloc(int) pointers
+  should probably be free()'d also, but it's not necessary, when the program
+  exits the low memory gets returned automatically.
+
+o Pointers returned with malloc(), mallocl() and lalloc() do not initialize
+  the memory to anything. You cannot assume anything about the contents
+  of the memory.
+
+o Arrays can be really big, larger than 64K, but remember that storage for
+  the array is added to the size of the program itself. Suppose you want
+  a 1024x1024 array of longs. If you tried doing this with:
+  long arr[1024][1024];
+  It couldn't possibly work, because this would create a 4+ megabyte block
+  of zeroes in the program itself. Instead declare arr like this:
+  long (*arr)[1024];
+  Then in main() use mallocl to allocate storage for the array:
+  arr=mallocl(1024*1024*sizeof(long));
+  if(!arr) {printf("No memory!\n");return;}
+  Then remember later to do a free(arr);
+  Access the array normally:
+  long zzz=arr[400][50];
+  Remember that by definition in C
+  v1[v2]  <=> *((v1)+(v2))
+
+o There is no BSS or uninitialized storage area for variables. Everything
+  gets put in with the object code of the program, and is initialized to
+  zero. If your program seems to be unreasonably large, look for big
+  arrays declared, and convert them to allocation methods.
+
+o There is a new modifier for structures, the "label" keyword. A structure
+  member prefaced with "label" allocates no storage--meaning it doesn't
+  increment the offset counter by the size of the object. It is similiar
+  to "union" but doesn't require the extra level of typing. Example:
+  typedef struct registerfile {
+  label long EAX;
+  label short AX;
+  char AL,AH;
+  short regsdummy1;
+  ...} REGS, *REGSPTR;
+  REGSPTR aregs;
+  aregs->EAX=4; aregs->AL=3;aregs->AH=4;...
+  I wouldn't even know how to do the equivalent with the UNION specifier.
+
+o **** Remember to free memory allocated with malloc() and mallocl()!
+
+o Open files are closed automatically when the program exits.
+
+o To exit your program, you can call exit(char retval). Or you can just
+  return from main(). Or main can return a value. The value returned
+  gets passed to DOS, in case you want to pass an error code back.
+  Typically zero means everything is OK, and nonzero means some error.
+
+o The pmode header takes over the control-c and control-break vectors.
+  It is important that the program not be terminated without getting a
+  chance to free its variables. If you want to check for control-c or
+  control-break, call cchit(). It returns non-zero if ^c or ^break has
+  been hit. Note that the control-c detection depends on DOS, and will
+  only work if you've called certain IO functions like read() or write(),
+  and if the ^C is the first keycode in the buffer. ^break is more
+  powerful and works all the time.
+
+o CALLING REAL MODE INTERRUPTS
+  This is done with the int86 routine. Include <regs.h> and declare a
+  REGS structure. Fill in any required register fields, then use
+  int86(REGS *areg, int interruptnumber); The REGS structure gets filled
+  in with the results. Alternatively for a faster mechanism, if the
+  interrupt doesn't need any parameters passed in the segment registers,
+  you can use inline ASM and use the "int" instruction directly. No
+  registers are passed back however. If you need to compute a
+  segment:offset, remember that the address has to lie in the first
+  megabyte. You must add in the absolute base of the code block, which
+  is the longword at location 8. Example:
+  #include <regs.h>
+  outstring(char *str) /* string must end in '$' */
+  {
+  REGS xr;
+  long absloc;
+
+    clearmem(&xr,sizeof(REGS));
+    absloc=str+*(long *)8;
+    xr.DS=absloc>>4;
+    xr.DX=absloc&15;
+    xr.AH=9;
+    int86(&xr,0x21);
+  }
+
+o If you want to take over real mode interrupt vectors like the
+  real time clock or the keyboard, use inline asm and call Tran's
+  int $31, functions $200 and $201. See pmode.doc.
+
+o In general, to accomplish low level functions, look through the
+  list of pmode service functions to get something done, because those
+  are usually faster and require less overhead. See pmode.doc.
+
+o Sometimes the line number printed out with an error message isn't
+  correct. Sometimes you have to look around to find the real error.
+  Usually the error is nearby. Worst case scenarios are an error in the
+  expression inside the () of a switch statement. The line number
+  printed out will be the line of the closing } of the entire switch
+  statement, or around there. This has to do with how the parser
+  works, and my being lazy.
+
+o DIVIDE BY ZERO   Currently if this occurs, the video mode will
+  be set to 3 (25x80 color) and "/0" will be printed, and the
+  program will exit. This is bad, but it's better than crashing...
+  Your program won't get a chance to deallocate resources.

@@ -1,0 +1,8 @@
+Set the ACCDIR and LINKDIR environment variables to point to the correct
+directories to find header files and the _start.o and _lib.o files.
+
+To compile .c programs, do:
+
+acc <name>  (no .c)
+a86 <name>  (no .a)
+link <name>  (no .o)
